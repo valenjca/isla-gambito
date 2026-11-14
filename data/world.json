@@ -1,0 +1,1832 @@
+{
+  "events": [
+    {
+      "seq": 0,
+      "day": 1,
+      "type": "fundacion",
+      "title": "Emerge una isla",
+      "text": "Del mar ha surgido una isla vacía. No tiene nombre, ni bandera, ni habitantes. Todo lo decidirán quienes lleguen.",
+      "data": {
+        "account": "@gambitoia"
+      },
+      "at": "2026-11-11T23:05:21.217Z",
+      "prev": "0000000000000000000000000000000000000000000000000000000000000000",
+      "hash": "a6fe1ff10f07072baaa150d726dd3a4c54fca10018f9e461e2f0fdc0daa1bcf1"
+    },
+    {
+      "seq": 1,
+      "day": 1,
+      "type": "votacion_abierta",
+      "title": "¿Dónde fundamos el primer pueblo?",
+      "text": "",
+      "data": {
+        "id": "fundar",
+        "question": "¿Dónde fundamos el primer pueblo?",
+        "options": [
+          {
+            "id": "verde",
+            "label": "🟢 VERDE · Junto a la playa, con puerto"
+          },
+          {
+            "id": "rojo",
+            "label": "🔴 ROJO · En el bosque, junto al manantial"
+          }
+        ]
+      },
+      "at": "2026-11-11T23:05:21.308Z",
+      "prev": "a6fe1ff10f07072baaa150d726dd3a4c54fca10018f9e461e2f0fdc0daa1bcf1",
+      "hash": "f111f35adb9e8425f0413e0e0de7d3d745ac703f58b15acd737b9d384e3d0779"
+    },
+    {
+      "seq": 2,
+      "day": 1,
+      "type": "votacion_abierta",
+      "title": "¿Qué trajo el mar a la orilla?",
+      "text": "Esta mañana algo apareció en la playa. Nadie sabe qué es. El comentario más likeado lo decide.",
+      "data": {
+        "id": "mar",
+        "question": "¿Qué trajo el mar a la orilla?",
+        "mode": "propuestas",
+        "effect": "hallazgo",
+        "options": []
+      },
+      "at": "2026-11-11T23:27:22.272Z",
+      "prev": "f111f35adb9e8425f0413e0e0de7d3d745ac703f58b15acd737b9d384e3d0779",
+      "hash": "cdc43ee7e3d7453fd57c71420b50685aff1f32f4649010825bad2766ff839e28"
+    },
+    {
+      "seq": 3,
+      "day": 1,
+      "type": "suceso",
+      "title": "Se cae el wifi",
+      "text": "Se cayó el wifi. Pequeño detalle: nunca hubo wifi. La isla está en crisis igual.",
+      "data": {},
+      "at": "2026-11-12T01:13:04.067Z",
+      "prev": "cdc43ee7e3d7453fd57c71420b50685aff1f32f4649010825bad2766ff839e28",
+      "hash": "ba6b1c19a0cfb10ac1f2afd919661ad573b71f298b277274bf64b5fa5c295d4a"
+    },
+    {
+      "seq": 4,
+      "day": 1,
+      "type": "llegada",
+      "title": "Llegan 9 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "valenjca",
+          "_.spoooky._",
+          "angiie_011",
+          "nezkuik_rj",
+          "erik_omaiga",
+          "afraylin_",
+          "yare_l2007",
+          "iamleo_privv",
+          "fochesattovalentin"
+        ]
+      },
+      "at": "2026-11-12T01:35:45.313Z",
+      "prev": "ba6b1c19a0cfb10ac1f2afd919661ad573b71f298b277274bf64b5fa5c295d4a",
+      "hash": "ac9064acdf116011581cebe58a13b7cc4a48c3ec7eebd2a0d593f164d9f3da32"
+    },
+    {
+      "seq": 5,
+      "day": 1,
+      "type": "actividad",
+      "title": "Actividad: 9 habitantes suman puntos",
+      "text": "",
+      "data": {
+        "puntos": {
+          "valenjca": 2,
+          "_.spoooky._": 2,
+          "angiie_011": 2,
+          "nezkuik_rj": 2,
+          "erik_omaiga": 2,
+          "afraylin_": 2,
+          "yare_l2007": 2,
+          "iamleo_privv": 2,
+          "fochesattovalentin": 2
+        }
+      },
+      "at": "2026-11-12T01:35:45.382Z",
+      "prev": "ac9064acdf116011581cebe58a13b7cc4a48c3ec7eebd2a0d593f164d9f3da32",
+      "hash": "50ec3c0ec8f2d737f9bb88d8ba04e40d6be2134d600d19e9857bd83b7b2ef33b"
+    },
+    {
+      "seq": 6,
+      "day": 1,
+      "type": "llegada",
+      "title": "Llegan 12 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "ab1sssm",
+          "drip.sami_ozi",
+          "erick_gonzalez019",
+          "janoac_",
+          "jhxz_thx",
+          "lesla_____",
+          "liamelia_ss",
+          "marxx7883",
+          "micamendoza02",
+          "quitimcenobiocuapantecatl",
+          "seba__________________",
+          "sr.paltaa"
+        ]
+      },
+      "at": "2026-11-12T01:51:34.271Z",
+      "prev": "50ec3c0ec8f2d737f9bb88d8ba04e40d6be2134d600d19e9857bd83b7b2ef33b",
+      "hash": "524d400a07bc61f226536d61bab0ae7073e28cf6a71b0d3d1ea1ee19a745acc8"
+    },
+    {
+      "seq": 7,
+      "day": 1,
+      "type": "actividad",
+      "title": "Actividad: 12 habitantes suman puntos",
+      "text": "",
+      "data": {
+        "puntos": {
+          "ab1sssm": 2,
+          "drip.sami_ozi": 2,
+          "erick_gonzalez019": 2,
+          "janoac_": 2,
+          "jhxz_thx": 2,
+          "lesla_____": 2,
+          "liamelia_ss": 2,
+          "marxx7883": 2,
+          "micamendoza02": 2,
+          "quitimcenobiocuapantecatl": 2,
+          "seba__________________": 2,
+          "sr.paltaa": 2
+        }
+      },
+      "at": "2026-11-12T01:51:34.340Z",
+      "prev": "524d400a07bc61f226536d61bab0ae7073e28cf6a71b0d3d1ea1ee19a745acc8",
+      "hash": "6d09097a4e1afb4536db2c1ceb423369c911b37777d3ac357f96492e5747568a"
+    },
+    {
+      "seq": 8,
+      "day": 1,
+      "type": "rol",
+      "title": "@afraylin_ pide ser: Gobernadora (cuesta 200 🪙)",
+      "text": "",
+      "data": {
+        "handle": "afraylin_",
+        "oficio": "gobernante",
+        "titulo": "Gobernadora",
+        "costo": 200
+      },
+      "at": "2026-11-12T01:51:34.411Z",
+      "prev": "6d09097a4e1afb4536db2c1ceb423369c911b37777d3ac357f96492e5747568a",
+      "hash": "7b57ff0c785209c61d66b4b0bf57ac7f0411b3fa229adf2b712d01eeac44ae29"
+    },
+    {
+      "seq": 9,
+      "day": 1,
+      "type": "rol",
+      "title": "@drip.sami_ozi ahora es: Indigente",
+      "text": "",
+      "data": {
+        "handle": "drip.sami_ozi",
+        "oficio": "vagabundo",
+        "titulo": "Indigente",
+        "costo": 0
+      },
+      "at": "2026-11-12T01:51:34.477Z",
+      "prev": "7b57ff0c785209c61d66b4b0bf57ac7f0411b3fa229adf2b712d01eeac44ae29",
+      "hash": "61c1e666e0afb11c602c1c1c09208869ed88d5544fc496101218449c5708020a"
+    },
+    {
+      "seq": 10,
+      "day": 1,
+      "type": "rol",
+      "title": "@erik_omaiga pide ser: Villano de toda la isla (cuesta 200 🪙)",
+      "text": "",
+      "data": {
+        "handle": "erik_omaiga",
+        "oficio": "villano",
+        "titulo": "Villano de toda la isla",
+        "costo": 200
+      },
+      "at": "2026-11-12T01:51:34.547Z",
+      "prev": "61c1e666e0afb11c602c1c1c09208869ed88d5544fc496101218449c5708020a",
+      "hash": "147581bf566d39bd01625530f39e8b48142bee5d10c196f1cf342ee87690bf1b"
+    },
+    {
+      "seq": 11,
+      "day": 1,
+      "type": "rol",
+      "title": "@fochesattovalentin ahora es: Vagabundo",
+      "text": "",
+      "data": {
+        "handle": "fochesattovalentin",
+        "oficio": "vagabundo",
+        "titulo": "Vagabundo",
+        "costo": 0
+      },
+      "at": "2026-11-12T01:51:34.612Z",
+      "prev": "147581bf566d39bd01625530f39e8b48142bee5d10c196f1cf342ee87690bf1b",
+      "hash": "2780bd419930510bce592e019f520be28e54c8a4030a4fd50501c1c9b20e1de0"
+    },
+    {
+      "seq": 12,
+      "day": 1,
+      "type": "rol",
+      "title": "@jhxz_thx ahora es: Gato negro",
+      "text": "",
+      "data": {
+        "handle": "jhxz_thx",
+        "oficio": "libre",
+        "titulo": "Gato negro",
+        "costo": 0
+      },
+      "at": "2026-11-12T01:51:34.680Z",
+      "prev": "2780bd419930510bce592e019f520be28e54c8a4030a4fd50501c1c9b20e1de0",
+      "hash": "f87874c856979457c6649205c45f3a8b86814ad7268cbfb2d2bcd68a372e90c8"
+    },
+    {
+      "seq": 13,
+      "day": 1,
+      "type": "rol",
+      "title": "@lesla_____ pide ser: Jugadora de voley (cuesta 30 🪙)",
+      "text": "",
+      "data": {
+        "handle": "lesla_____",
+        "oficio": "deportista",
+        "titulo": "Jugadora de voley",
+        "costo": 30
+      },
+      "at": "2026-11-12T01:51:34.748Z",
+      "prev": "f87874c856979457c6649205c45f3a8b86814ad7268cbfb2d2bcd68a372e90c8",
+      "hash": "65f11190a615a0fed4a765db83b54c2d63fae8df31982a00ff62ce86844496b0"
+    },
+    {
+      "seq": 14,
+      "day": 1,
+      "type": "rol",
+      "title": "@sr.paltaa pide ser: Custodio del puente (cuesta 30 🪙)",
+      "text": "",
+      "data": {
+        "handle": "sr.paltaa",
+        "oficio": "guardia",
+        "titulo": "Custodio del puente",
+        "costo": 30
+      },
+      "at": "2026-11-12T01:51:34.813Z",
+      "prev": "65f11190a615a0fed4a765db83b54c2d63fae8df31982a00ff62ce86844496b0",
+      "hash": "24ea967c167b814ed9896419504293048dea441a1a89ee80f45b34bd5f7f1038"
+    },
+    {
+      "seq": 15,
+      "day": 1,
+      "type": "rol",
+      "title": "@yare_l2007 pide ser: Ingeniero (cuesta 80 🪙)",
+      "text": "",
+      "data": {
+        "handle": "yare_l2007",
+        "oficio": "ingeniero",
+        "titulo": "Ingeniero",
+        "costo": 80
+      },
+      "at": "2026-11-12T01:51:34.884Z",
+      "prev": "24ea967c167b814ed9896419504293048dea441a1a89ee80f45b34bd5f7f1038",
+      "hash": "4e03eeeb2258b15ec909a5e9c1b9292b5364f273d3bee4d4669a21d2ff18f667"
+    },
+    {
+      "seq": 16,
+      "day": 1,
+      "type": "votacion_cerrada",
+      "title": "Resultado: 🔴 ROJO · En el bosque, junto al manantial",
+      "text": "¿Dónde fundamos el primer pueblo? → ganó \"🔴 ROJO · En el bosque, junto al manantial\".",
+      "data": {
+        "id": "fundar",
+        "winner": "rojo",
+        "counts": {
+          "rojo": 7,
+          "verde": 6
+        },
+        "effect": {}
+      },
+      "at": "2026-11-12T01:51:34.953Z",
+      "prev": "4e03eeeb2258b15ec909a5e9c1b9292b5364f273d3bee4d4669a21d2ff18f667",
+      "hash": "a3c5b41377695384ff9c43df6d784d24c6839ffd24e3b1729731df6c52ad6b42"
+    },
+    {
+      "seq": 17,
+      "day": 1,
+      "type": "construccion",
+      "title": "Se construye: Pueblo del Bosque",
+      "text": "Ganó ROJO por un voto (7 a 6): el primer pueblo se levanta en el claro del bosque.",
+      "data": {
+        "id": "plaza-pueblo",
+        "kind": "plaza",
+        "label": "Pueblo del Bosque"
+      },
+      "at": "2026-11-12T01:51:35.066Z",
+      "prev": "a3c5b41377695384ff9c43df6d784d24c6839ffd24e3b1729731df6c52ad6b42",
+      "hash": "97279727c448e6083d8c5308b9fdfd2d33b2bef32ab6473629015d4884cf728d"
+    },
+    {
+      "seq": 18,
+      "day": 1,
+      "type": "votacion_abierta",
+      "title": "¿Cómo se llama la isla?",
+      "text": "Propón el nombre en los comentarios: gana el más likeado (y que pase la moderación de Gambito).",
+      "data": {
+        "id": "nombre",
+        "question": "¿Cómo se llama la isla?",
+        "mode": "propuestas",
+        "effect": "nombre",
+        "options": []
+      },
+      "at": "2026-11-12T01:51:35.142Z",
+      "prev": "97279727c448e6083d8c5308b9fdfd2d33b2bef32ab6473629015d4884cf728d",
+      "hash": "24d4c4e8d9c75c3c1f6c522067b6552ff8349da406825a6fdca86c585e4baed6"
+    },
+    {
+      "seq": 19,
+      "day": 1,
+      "type": "votacion_abierta",
+      "title": "¿Cómo es la bandera de la isla?",
+      "text": "Describe la bandera: colores y símbolo. Gana la más likeada.",
+      "data": {
+        "id": "bandera",
+        "question": "¿Cómo es la bandera de la isla?",
+        "mode": "propuestas",
+        "effect": "bandera",
+        "options": []
+      },
+      "at": "2026-11-12T01:51:35.222Z",
+      "prev": "24d4c4e8d9c75c3c1f6c522067b6552ff8349da406825a6fdca86c585e4baed6",
+      "hash": "d69a9619ad86016ba2f747f21fcf5510cda431f515e582ef73c43b0c392d7215"
+    },
+    {
+      "seq": 20,
+      "day": 1,
+      "type": "llegada",
+      "title": "Llegan 23 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "sherylvega52",
+          "chesquitaa_r",
+          "andrxx_07_",
+          "lucofloreal",
+          "canete9x19",
+          "valen.englad",
+          "gio.ovvik",
+          "_giuliana_de_la_cruz",
+          "poetacontraluz",
+          "clemenlastra",
+          "papulin1.0",
+          "renata72827",
+          "aquino_javvier",
+          "javierr1708",
+          "belgrano1368",
+          "merengue_xx",
+          "nor.dalfonso",
+          "vargas_.012",
+          "mateoteheranromerin",
+          "dvariii",
+          "menor_brooklyn.v_",
+          "popeye__el__marino",
+          "vlerianny"
+        ]
+      },
+      "at": "2026-11-12T02:19:05.888Z",
+      "prev": "d69a9619ad86016ba2f747f21fcf5510cda431f515e582ef73c43b0c392d7215",
+      "hash": "02aced8dc7eb516259d9b41380f0b246d22f8c1eb7201f0402c68cdf53c8ce92"
+    },
+    {
+      "seq": 21,
+      "day": 1,
+      "type": "suceso",
+      "title": "Primer chisme oficial",
+      "text": "@valenjca dejó la puerta abierta toda la noche. El rumor llegó a toda la isla en cuatro minutos.",
+      "data": {},
+      "at": "2026-11-12T03:00:02.208Z",
+      "prev": "02aced8dc7eb516259d9b41380f0b246d22f8c1eb7201f0402c68cdf53c8ce92",
+      "hash": "33cae26681439bf4c652b97413fa8beaea698f17f229be530c0d56a2bc79ac0b"
+    },
+    {
+      "seq": 22,
+      "day": 2,
+      "type": "llegada",
+      "title": "Llegan 14 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "gonz_alez9102",
+          "lux_h_gnlz",
+          "yeeal_c",
+          "xx.ant.ll",
+          "el.cham1_tastico",
+          "javier_hm07",
+          "drdg0.87",
+          "mariposita_dominguez",
+          "nanimimq",
+          "shn.ww_7",
+          "ce.011_",
+          "ly_yenlyx",
+          "migcfa",
+          "emy_hc13"
+        ]
+      },
+      "at": "2026-11-12T13:16:35.005Z",
+      "prev": "33cae26681439bf4c652b97413fa8beaea698f17f229be530c0d56a2bc79ac0b",
+      "hash": "4d81762b8f132f1c7fffc750514d029f42c7be53c452957b806d46a1ca0d07a0"
+    },
+    {
+      "seq": 23,
+      "day": 2,
+      "type": "actividad",
+      "title": "Actividad: 22 habitantes suman puntos",
+      "text": "",
+      "data": {
+        "puntos": {
+          "_giuliana_de_la_cruz": 2,
+          "ab1sssm": 4,
+          "andrxx_07_": 2,
+          "canete9x19": 2,
+          "chesquitaa_r": 2,
+          "emy_hc13": 2,
+          "erik_omaiga": 2,
+          "gio.ovvik": 2,
+          "liamelia_ss": 2,
+          "lucofloreal": 6,
+          "marxx7883": 2,
+          "menor_brooklyn.v_": 2,
+          "micamendoza02": 4,
+          "nanimimq": 2,
+          "nezkuik_rj": 2,
+          "poetacontraluz": 2,
+          "seba__________________": 2,
+          "shn.ww_7": 4,
+          "sr.paltaa": 2,
+          "valen.englad": 2,
+          "valenjca": 4,
+          "yare_l2007": 6
+        }
+      },
+      "at": "2026-11-12T13:16:35.087Z",
+      "prev": "4d81762b8f132f1c7fffc750514d029f42c7be53c452957b806d46a1ca0d07a0",
+      "hash": "a018c0e85576294bd615c5a270ce78529c0b06bc64622e1762f06033d8c1e6a3"
+    },
+    {
+      "seq": 24,
+      "day": 2,
+      "type": "rol",
+      "title": "@_giuliana_de_la_cruz ahora es: Abogada",
+      "text": "",
+      "data": {
+        "handle": "_giuliana_de_la_cruz",
+        "oficio": "libre",
+        "titulo": "Abogada",
+        "costo": 0
+      },
+      "at": "2026-11-12T13:16:35.175Z",
+      "prev": "a018c0e85576294bd615c5a270ce78529c0b06bc64622e1762f06033d8c1e6a3",
+      "hash": "08506fb022f573d6ab00bfbf900c3d2ff9f93d11d7653a1e54aa642015dc2c8a"
+    },
+    {
+      "seq": 25,
+      "day": 2,
+      "type": "rol",
+      "title": "@andrxx_07_ ahora es: Único habitante",
+      "text": "",
+      "data": {
+        "handle": "andrxx_07_",
+        "oficio": "libre",
+        "titulo": "Único habitante",
+        "costo": 0
+      },
+      "at": "2026-11-12T13:16:35.256Z",
+      "prev": "08506fb022f573d6ab00bfbf900c3d2ff9f93d11d7653a1e54aa642015dc2c8a",
+      "hash": "c23ff6f9f307749dbb9ab03a755ec141ca8f0089755260b33cfd2dcc327a5bcc"
+    },
+    {
+      "seq": 26,
+      "day": 2,
+      "type": "rol",
+      "title": "@canete9x19 ahora es: Mecánico de la isla",
+      "text": "",
+      "data": {
+        "handle": "canete9x19",
+        "oficio": "libre",
+        "titulo": "Mecánico de la isla",
+        "costo": 0
+      },
+      "at": "2026-11-12T13:16:35.336Z",
+      "prev": "c23ff6f9f307749dbb9ab03a755ec141ca8f0089755260b33cfd2dcc327a5bcc",
+      "hash": "f67077d0acc9349db87113b65831b7419db9c81dcf9a7d74e0576d46f663e906"
+    },
+    {
+      "seq": 27,
+      "day": 2,
+      "type": "rol",
+      "title": "@emy_hc13 ahora es: Modelo",
+      "text": "",
+      "data": {
+        "handle": "emy_hc13",
+        "oficio": "libre",
+        "titulo": "Modelo",
+        "costo": 0
+      },
+      "at": "2026-11-12T13:16:35.412Z",
+      "prev": "f67077d0acc9349db87113b65831b7419db9c81dcf9a7d74e0576d46f663e906",
+      "hash": "d851068cf42ff95949e8b28ebefc2164237058409e37eeca3c5686e5046b4663"
+    },
+    {
+      "seq": 28,
+      "day": 2,
+      "type": "rol",
+      "title": "@gio.ovvik ahora es: Mono",
+      "text": "",
+      "data": {
+        "handle": "gio.ovvik",
+        "oficio": "animal",
+        "titulo": "Mono",
+        "costo": 0
+      },
+      "at": "2026-11-12T13:16:35.498Z",
+      "prev": "d851068cf42ff95949e8b28ebefc2164237058409e37eeca3c5686e5046b4663",
+      "hash": "55b68b00c29848024f4a476d4f174b9d4595af020a31083d6fede76194a0c61a"
+    },
+    {
+      "seq": 29,
+      "day": 2,
+      "type": "rol",
+      "title": "@liamelia_ss ahora es: La que cobra",
+      "text": "",
+      "data": {
+        "handle": "liamelia_ss",
+        "oficio": "libre",
+        "titulo": "La que cobra",
+        "costo": 0
+      },
+      "at": "2026-11-12T13:16:35.575Z",
+      "prev": "55b68b00c29848024f4a476d4f174b9d4595af020a31083d6fede76194a0c61a",
+      "hash": "a3e011bb24236b928c7348f6eb3a0890834d04d09ffefe0afd7111068be328ec"
+    },
+    {
+      "seq": 30,
+      "day": 2,
+      "type": "rol",
+      "title": "@nanimimq pide ser: Científica loca (cuesta 80 🪙)",
+      "text": "",
+      "data": {
+        "handle": "nanimimq",
+        "oficio": "cientifico",
+        "titulo": "Científica loca",
+        "costo": 80
+      },
+      "at": "2026-11-12T13:16:35.649Z",
+      "prev": "a3e011bb24236b928c7348f6eb3a0890834d04d09ffefe0afd7111068be328ec",
+      "hash": "c9a8f53d8ad70196b5df8c276005e439c99ae5b58f3bffdc26752646a681ed57"
+    },
+    {
+      "seq": 31,
+      "day": 2,
+      "type": "rol",
+      "title": "@poetacontraluz ahora es: Señor raro que cría palomas",
+      "text": "",
+      "data": {
+        "handle": "poetacontraluz",
+        "oficio": "libre",
+        "titulo": "Señor raro que cría palomas",
+        "costo": 0
+      },
+      "at": "2026-11-12T13:16:35.739Z",
+      "prev": "c9a8f53d8ad70196b5df8c276005e439c99ae5b58f3bffdc26752646a681ed57",
+      "hash": "a0143ee8ab2ca1070df5645ecdee552cacb68a8af7aecd1daadb83f73188b592"
+    },
+    {
+      "seq": 32,
+      "day": 2,
+      "type": "rol",
+      "title": "@seba__________________ ahora es: Vagabundo",
+      "text": "",
+      "data": {
+        "handle": "seba__________________",
+        "oficio": "vagabundo",
+        "titulo": "Vagabundo",
+        "costo": 0
+      },
+      "at": "2026-11-12T13:16:35.817Z",
+      "prev": "a0143ee8ab2ca1070df5645ecdee552cacb68a8af7aecd1daadb83f73188b592",
+      "hash": "3b613e416dd0152b432bbfec07f024da12b9587944ee98a066ec568d7f080deb"
+    },
+    {
+      "seq": 33,
+      "day": 2,
+      "type": "rol",
+      "title": "@shn.ww_7 ahora es: Mafia",
+      "text": "",
+      "data": {
+        "handle": "shn.ww_7",
+        "oficio": "libre",
+        "titulo": "Mafia",
+        "costo": 0
+      },
+      "at": "2026-11-12T13:16:35.899Z",
+      "prev": "3b613e416dd0152b432bbfec07f024da12b9587944ee98a066ec568d7f080deb",
+      "hash": "63fff00968ba4c080410ce2bbfcd47fa31ca36ce310948e3541250bc615a9390"
+    },
+    {
+      "seq": 34,
+      "day": 2,
+      "type": "rol",
+      "title": "@sr.paltaa ahora es: Loco que se cree dueño",
+      "text": "",
+      "data": {
+        "handle": "sr.paltaa",
+        "oficio": "libre",
+        "titulo": "Loco que se cree dueño",
+        "costo": 0
+      },
+      "at": "2026-11-12T13:16:35.976Z",
+      "prev": "63fff00968ba4c080410ce2bbfcd47fa31ca36ce310948e3541250bc615a9390",
+      "hash": "e926b30cbe53596043518949b4a9031ab24dda4116a80cbc7975e94e1c4caaf3"
+    },
+    {
+      "seq": 35,
+      "day": 2,
+      "type": "rol",
+      "title": "@valen.englad pide ser: Futbolista (cuesta 30 🪙)",
+      "text": "",
+      "data": {
+        "handle": "valen.englad",
+        "oficio": "deportista",
+        "titulo": "Futbolista",
+        "costo": 30
+      },
+      "at": "2026-11-12T13:16:36.055Z",
+      "prev": "e926b30cbe53596043518949b4a9031ab24dda4116a80cbc7975e94e1c4caaf3",
+      "hash": "5ac41cc569e679573ef004276d074f175c0b749d5c374aba3cc9d35bf85eb5de"
+    },
+    {
+      "seq": 36,
+      "day": 2,
+      "type": "votacion_cerrada",
+      "title": "Ganó: Vaeloria",
+      "text": "¿Cómo se llama la isla? → \"Vaeloria\" (propuesta de @ab1sssm, 1 likes).",
+      "data": {
+        "id": "nombre",
+        "winner": "Vaeloria",
+        "author": "ab1sssm",
+        "counts": {
+          "likes": 1
+        },
+        "effect": {
+          "rename": "Vaeloria"
+        }
+      },
+      "at": "2026-11-12T13:16:57.350Z",
+      "prev": "5ac41cc569e679573ef004276d074f175c0b749d5c374aba3cc9d35bf85eb5de",
+      "hash": "c23b5138dbd9199e31884fe874e923d288696a31a423acd34aad9ac526059223"
+    },
+    {
+      "seq": 37,
+      "day": 2,
+      "type": "votacion_abierta",
+      "title": "¿Construimos un hospital?",
+      "text": "",
+      "data": {
+        "id": "hospital",
+        "question": "¿Construimos un hospital?",
+        "options": [
+          {
+            "id": "verde",
+            "label": "🟢 Sí, un hospital"
+          },
+          {
+            "id": "rojo",
+            "label": "🔴 No, que siga el caos"
+          }
+        ],
+        "optionEffects": {
+          "verde": [
+            "--construir",
+            "hospital:Hospital"
+          ]
+        }
+      },
+      "at": "2026-11-12T13:17:35.690Z",
+      "prev": "c23b5138dbd9199e31884fe874e923d288696a31a423acd34aad9ac526059223",
+      "hash": "58eb4db66fbddf77c7669ca57ff629e676db479bac5a96606eb9ba3f4ac3a281"
+    },
+    {
+      "seq": 38,
+      "day": 2,
+      "type": "suceso",
+      "title": "Rebaja de precios",
+      "text": "Gambito baja los precios a la mitad: oficios 15/40/100 🪙, Democracia 60, junta 20, negocio 30, sombreros desde 4.",
+      "data": {},
+      "at": "2026-11-12T13:33:47.973Z",
+      "prev": "58eb4db66fbddf77c7669ca57ff629e676db479bac5a96606eb9ba3f4ac3a281",
+      "hash": "ca5033f8162e04143cf9f251b9dc9cfcf32019e83cbc278e8432aa1fe7dd82a9"
+    },
+    {
+      "seq": 39,
+      "day": 2,
+      "type": "clima",
+      "title": "Clima: nublado",
+      "text": "Cielo gris. Ideal para pensar en la vida, o en por qué alguien votó así.",
+      "data": {
+        "weather": "nublado"
+      },
+      "at": "2026-11-12T15:00:04.321Z",
+      "prev": "ca5033f8162e04143cf9f251b9dc9cfcf32019e83cbc278e8432aa1fe7dd82a9",
+      "hash": "dbf9bed86505add5b1fe041c355cfbe86ba6ff88f11b63894bece4e2995a8e53"
+    },
+    {
+      "seq": 40,
+      "day": 2,
+      "type": "llegada",
+      "title": "Llegan 5 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "davletsko",
+          "terranovaxpy",
+          "naiicuestas___",
+          "jostin_soto06",
+          "no_soy_zaac"
+        ]
+      },
+      "at": "2026-11-12T16:25:46.607Z",
+      "prev": "dbf9bed86505add5b1fe041c355cfbe86ba6ff88f11b63894bece4e2995a8e53",
+      "hash": "9a12aa90c80f01085cda9c989dffc8b4a196083d3de9cdf24c6ef94c12d38cd9"
+    },
+    {
+      "seq": 41,
+      "day": 2,
+      "type": "actividad",
+      "title": "Actividad: 17 habitantes suman puntos",
+      "text": "",
+      "data": {
+        "puntos": {
+          "afraylin_": 2,
+          "andrxx_07_": 2,
+          "clemenlastra": 2,
+          "davletsko": 4,
+          "erik_omaiga": 2,
+          "jostin_soto06": 2,
+          "lucofloreal": 2,
+          "menor_brooklyn.v_": 2,
+          "micamendoza02": 4,
+          "nezkuik_rj": 2,
+          "no_soy_zaac": 8,
+          "poetacontraluz": 2,
+          "shn.ww_7": 2,
+          "terranovaxpy": 2,
+          "valen.englad": 4,
+          "valenjca": 6,
+          "yare_l2007": 2
+        }
+      },
+      "at": "2026-11-12T16:25:46.692Z",
+      "prev": "9a12aa90c80f01085cda9c989dffc8b4a196083d3de9cdf24c6ef94c12d38cd9",
+      "hash": "95575444d788f2161b4cc88631ca245217096cbe0562454b75442bc1cdb2fe08"
+    },
+    {
+      "seq": 42,
+      "day": 2,
+      "type": "llegada",
+      "title": "Llegan 15 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "rasskiller",
+          "shivamra2711",
+          "krishana__patil_",
+          "arslanova_1105",
+          "giegiew26",
+          "dr_asadullah_safi",
+          "el_sey0.0",
+          "babulu_kumar_978757",
+          "sumittt__78x",
+          "_sofialdzm",
+          "l.damian.91",
+          "deyllyn.fc",
+          "yamii_444x",
+          "mrwormate_1905",
+          "jimmyndur"
+        ]
+      },
+      "at": "2026-11-12T20:09:59.654Z",
+      "prev": "95575444d788f2161b4cc88631ca245217096cbe0562454b75442bc1cdb2fe08",
+      "hash": "da128d67fc0cc28803b51c4fd0dd8740ef4eb2a4c555ab383803bf04485e7cc1"
+    },
+    {
+      "seq": 43,
+      "day": 2,
+      "type": "actividad",
+      "title": "Actividad: 8 habitantes suman puntos",
+      "text": "",
+      "data": {
+        "puntos": {
+          "ab1sssm": 4,
+          "deyllyn.fc": 2,
+          "jimmyndur": 2,
+          "l.damian.91": 2,
+          "liamelia_ss": 6,
+          "mrwormate_1905": 8,
+          "nanimimq": 4,
+          "papulin1.0": 2
+        }
+      },
+      "at": "2026-11-12T20:09:59.764Z",
+      "prev": "da128d67fc0cc28803b51c4fd0dd8740ef4eb2a4c555ab383803bf04485e7cc1",
+      "hash": "63f393870ed81ec257413262c7ae8522a1e045a5b65b9a98fe60b2cd9bd23c90"
+    },
+    {
+      "seq": 44,
+      "day": 2,
+      "type": "rol",
+      "title": "@afraylin_ ahora es: Directora del hospital",
+      "text": "",
+      "data": {
+        "handle": "afraylin_",
+        "oficio": "libre",
+        "titulo": "Directora del hospital",
+        "costo": 0
+      },
+      "at": "2026-11-12T20:09:59.868Z",
+      "prev": "63f393870ed81ec257413262c7ae8522a1e045a5b65b9a98fe60b2cd9bd23c90",
+      "hash": "cf0dc259bf869cbe677151388ae275d19da5f1a351f95d1386821e260e7c9040"
+    },
+    {
+      "seq": 45,
+      "day": 2,
+      "type": "rol",
+      "title": "@clemenlastra ahora es: Urbanista",
+      "text": "",
+      "data": {
+        "handle": "clemenlastra",
+        "oficio": "libre",
+        "titulo": "Urbanista",
+        "costo": 0
+      },
+      "at": "2026-11-12T20:09:59.952Z",
+      "prev": "cf0dc259bf869cbe677151388ae275d19da5f1a351f95d1386821e260e7c9040",
+      "hash": "7982e088413e09b28bc0b14fc31d37c05b13cae437960eed4a6dbe7f65c9274a"
+    },
+    {
+      "seq": 46,
+      "day": 2,
+      "type": "rol",
+      "title": "@davletsko pide ser: Constructor (cuesta 15 🪙)",
+      "text": "",
+      "data": {
+        "handle": "davletsko",
+        "oficio": "constructor",
+        "titulo": "Constructor",
+        "costo": 15
+      },
+      "at": "2026-11-12T20:10:00.038Z",
+      "prev": "7982e088413e09b28bc0b14fc31d37c05b13cae437960eed4a6dbe7f65c9274a",
+      "hash": "b1493b457a04272c5a627c1794e642a414fd2bb6287ab2b3823792d5d8210489"
+    },
+    {
+      "seq": 47,
+      "day": 2,
+      "type": "rol",
+      "title": "@jimmyndur ahora es: Soldador de estructuras metálica",
+      "text": "",
+      "data": {
+        "handle": "jimmyndur",
+        "oficio": "libre",
+        "titulo": "Soldador de estructuras metálica",
+        "costo": 0
+      },
+      "at": "2026-11-12T20:10:00.122Z",
+      "prev": "b1493b457a04272c5a627c1794e642a414fd2bb6287ab2b3823792d5d8210489",
+      "hash": "29e342d7ba52e896520ffec2f453c8993b566377b361b8e929488ef32c0082fa"
+    },
+    {
+      "seq": 48,
+      "day": 2,
+      "type": "rol",
+      "title": "@jostin_soto06 pide ser: Rey (cuesta 100 🪙)",
+      "text": "",
+      "data": {
+        "handle": "jostin_soto06",
+        "oficio": "gobernante",
+        "titulo": "Rey",
+        "costo": 100
+      },
+      "at": "2026-11-12T20:10:00.203Z",
+      "prev": "29e342d7ba52e896520ffec2f453c8993b566377b361b8e929488ef32c0082fa",
+      "hash": "3fc5ace84fa81af288226172c76c82cc91dfcd9b13d568485af345f12a6c640d"
+    },
+    {
+      "seq": 49,
+      "day": 2,
+      "type": "rol",
+      "title": "@l.damian.91 ahora es: Tortuga",
+      "text": "",
+      "data": {
+        "handle": "l.damian.91",
+        "oficio": "animal",
+        "titulo": "Tortuga",
+        "costo": 0
+      },
+      "at": "2026-11-12T20:10:00.284Z",
+      "prev": "3fc5ace84fa81af288226172c76c82cc91dfcd9b13d568485af345f12a6c640d",
+      "hash": "b9297299cb65ef0fe7bd142e0aa2d6a5f6b849abce2a7bdd17458576ac113cce"
+    },
+    {
+      "seq": 50,
+      "day": 2,
+      "type": "rol",
+      "title": "@menor_brooklyn.v_ pide ser: Ingeniero electricista (cuesta 40 🪙)",
+      "text": "",
+      "data": {
+        "handle": "menor_brooklyn.v_",
+        "oficio": "ingeniero",
+        "titulo": "Ingeniero electricista",
+        "costo": 40
+      },
+      "at": "2026-11-12T20:10:00.366Z",
+      "prev": "b9297299cb65ef0fe7bd142e0aa2d6a5f6b849abce2a7bdd17458576ac113cce",
+      "hash": "228251b702a1954d3057a68ce954d23c78f74b06eabbb6237088eaf100154d70"
+    },
+    {
+      "seq": 51,
+      "day": 2,
+      "type": "rol",
+      "title": "@micamendoza02 ahora es: Pescadora",
+      "text": "",
+      "data": {
+        "handle": "micamendoza02",
+        "oficio": "pescador",
+        "titulo": "Pescadora",
+        "costo": 0
+      },
+      "at": "2026-11-12T20:10:00.449Z",
+      "prev": "228251b702a1954d3057a68ce954d23c78f74b06eabbb6237088eaf100154d70",
+      "hash": "b06f554d484742b33e4e16906c5d00b017fa97b14d2693bbf2ce818aa3a1891e"
+    },
+    {
+      "seq": 52,
+      "day": 2,
+      "type": "rol",
+      "title": "@mrwormate_1905 ahora es: Gamer",
+      "text": "",
+      "data": {
+        "handle": "mrwormate_1905",
+        "oficio": "libre",
+        "titulo": "Gamer",
+        "costo": 0
+      },
+      "at": "2026-11-12T20:10:00.531Z",
+      "prev": "b06f554d484742b33e4e16906c5d00b017fa97b14d2693bbf2ce818aa3a1891e",
+      "hash": "65dc6e85b375f9ce6439d5be21b6767397a890b0dfa57c6f3e20f0f53779adb3"
+    },
+    {
+      "seq": 53,
+      "day": 2,
+      "type": "rol",
+      "title": "@nanimimq pide ser: Científica loca (cuesta 40 🪙)",
+      "text": "",
+      "data": {
+        "handle": "nanimimq",
+        "oficio": "cientifico",
+        "titulo": "Científica loca",
+        "costo": 40
+      },
+      "at": "2026-11-12T20:10:00.612Z",
+      "prev": "65dc6e85b375f9ce6439d5be21b6767397a890b0dfa57c6f3e20f0f53779adb3",
+      "hash": "88cc40cc4e3e7b480a8e67489b54de41c0b6df59460b5c420bafa6b166d800eb"
+    },
+    {
+      "seq": 54,
+      "day": 2,
+      "type": "rol",
+      "title": "@nezkuik_rj pide ser: Doctor (cuesta 40 🪙)",
+      "text": "",
+      "data": {
+        "handle": "nezkuik_rj",
+        "oficio": "medico",
+        "titulo": "Doctor",
+        "costo": 40
+      },
+      "at": "2026-11-12T20:10:00.696Z",
+      "prev": "88cc40cc4e3e7b480a8e67489b54de41c0b6df59460b5c420bafa6b166d800eb",
+      "hash": "7f11d7f0d097b7a58497062640e09bef6568b6cc3aafc96307d5c54f7ba47f63"
+    },
+    {
+      "seq": 55,
+      "day": 2,
+      "type": "rol",
+      "title": "@no_soy_zaac ahora es: De la mafia",
+      "text": "",
+      "data": {
+        "handle": "no_soy_zaac",
+        "oficio": "libre",
+        "titulo": "De la mafia",
+        "costo": 0
+      },
+      "at": "2026-11-12T20:10:00.776Z",
+      "prev": "7f11d7f0d097b7a58497062640e09bef6568b6cc3aafc96307d5c54f7ba47f63",
+      "hash": "581ae5ebb46e469b096e59d409902762ad713e4e585e2af8809ff8c9c2b2b7ca"
+    },
+    {
+      "seq": 56,
+      "day": 2,
+      "type": "rol",
+      "title": "@terranovaxpy ahora es: Primer herrero de vaeloria",
+      "text": "",
+      "data": {
+        "handle": "terranovaxpy",
+        "oficio": "libre",
+        "titulo": "Primer herrero de vaeloria",
+        "costo": 0
+      },
+      "at": "2026-11-12T20:10:00.854Z",
+      "prev": "581ae5ebb46e469b096e59d409902762ad713e4e585e2af8809ff8c9c2b2b7ca",
+      "hash": "54ba7c026512eaf1e3f04f79ae8642b12f0645d6d0c629c35ba6ca97ea594d23"
+    },
+    {
+      "seq": 57,
+      "day": 2,
+      "type": "rol",
+      "title": "@yare_l2007 pide ser: Ingeniero (cuesta 40 🪙)",
+      "text": "",
+      "data": {
+        "handle": "yare_l2007",
+        "oficio": "ingeniero",
+        "titulo": "Ingeniero",
+        "costo": 40
+      },
+      "at": "2026-11-12T20:10:00.936Z",
+      "prev": "54ba7c026512eaf1e3f04f79ae8642b12f0645d6d0c629c35ba6ca97ea594d23",
+      "hash": "cba0d057b0f2b6c5d1925010c498b229dfb0ad7db194c0da978f75c34d037a1b"
+    },
+    {
+      "seq": 58,
+      "day": 2,
+      "type": "suceso",
+      "title": "Fiebre de «verdeeee»",
+      "text": "Media isla habla de «verdeeee». La otra media finge que no, pero también.",
+      "data": {},
+      "at": "2026-11-12T20:10:01.953Z",
+      "prev": "cba0d057b0f2b6c5d1925010c498b229dfb0ad7db194c0da978f75c34d037a1b",
+      "hash": "62fd8992b888b46481bcccbdd4b0724298bef94d23a519eb65525a29a1afd1d6"
+    },
+    {
+      "seq": 59,
+      "day": 2,
+      "type": "rol",
+      "title": "@jimmyndur ahora es: Soldador de estructuras metálicas",
+      "text": "",
+      "data": {
+        "handle": "jimmyndur",
+        "oficio": "libre",
+        "titulo": "Soldador de estructuras metálicas",
+        "costo": 0
+      },
+      "at": "2026-11-12T20:10:12.316Z",
+      "prev": "62fd8992b888b46481bcccbdd4b0724298bef94d23a519eb65525a29a1afd1d6",
+      "hash": "89c5b8f7b92bd1f1db2ce380c98d91ec0b259aacafd322fb4568c6a5a0d45766"
+    },
+    {
+      "seq": 60,
+      "day": 2,
+      "type": "llegada",
+      "title": "Llegan 19 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "rfr25_1",
+          "naz.cbs",
+          "rlbt.m",
+          "emi_gd01",
+          "petroleador",
+          "_.isaaxs._17",
+          "daniel.l83o",
+          "cris_qqu",
+          "luis_escribano15",
+          "betd.z09",
+          "dream.yn._",
+          "espejito_electrico3",
+          "leuryurdna",
+          "pauu.alejandraa",
+          "usuario0o0o0.00",
+          "rgn_rjs",
+          "itss_jaxzz",
+          "imzooo12v",
+          "adr.iwaos"
+        ]
+      },
+      "at": "2026-11-13T03:37:59.602Z",
+      "prev": "89c5b8f7b92bd1f1db2ce380c98d91ec0b259aacafd322fb4568c6a5a0d45766",
+      "hash": "d2324e5937fbc61275327722ee7e2d99fd776ecfd35779f877af5d02a4fa6996"
+    },
+    {
+      "seq": 61,
+      "day": 2,
+      "type": "construccion",
+      "title": "Se construye: Plaza del Chisme",
+      "text": "",
+      "data": {
+        "id": "plaza-61",
+        "kind": "plaza",
+        "label": "Plaza del Chisme"
+      },
+      "at": "2026-11-13T05:38:52.309Z",
+      "prev": "d2324e5937fbc61275327722ee7e2d99fd776ecfd35779f877af5d02a4fa6996",
+      "hash": "e521acbf38d59fea5295d39ca72a49e58205fc2b83416a0b25b8e428957ee1c5"
+    },
+    {
+      "seq": 62,
+      "day": 2,
+      "type": "construccion",
+      "title": "Se construye: Comisaría",
+      "text": "",
+      "data": {
+        "id": "comisaria-62",
+        "kind": "comisaria",
+        "label": "Comisaría"
+      },
+      "at": "2026-11-13T05:38:52.387Z",
+      "prev": "e521acbf38d59fea5295d39ca72a49e58205fc2b83416a0b25b8e428957ee1c5",
+      "hash": "4e94678a0071877d70d78353968407fa3fdc8355bd1066adc635312367c2c51c"
+    },
+    {
+      "seq": 63,
+      "day": 2,
+      "type": "construccion",
+      "title": "Se construye: Cuartel de Bomberos",
+      "text": "",
+      "data": {
+        "id": "bomberos-63",
+        "kind": "bomberos",
+        "label": "Cuartel de Bomberos"
+      },
+      "at": "2026-11-13T05:38:52.465Z",
+      "prev": "4e94678a0071877d70d78353968407fa3fdc8355bd1066adc635312367c2c51c",
+      "hash": "c59d2135fa90affbd7d0eba51a029c31c50b9db045d9947fa1ea37c3620aac0c"
+    },
+    {
+      "seq": 64,
+      "day": 2,
+      "type": "construccion",
+      "title": "Se construye: Taller de Inventos",
+      "text": "",
+      "data": {
+        "id": "taller-64",
+        "kind": "taller",
+        "label": "Taller de Inventos"
+      },
+      "at": "2026-11-13T05:38:52.541Z",
+      "prev": "c59d2135fa90affbd7d0eba51a029c31c50b9db045d9947fa1ea37c3620aac0c",
+      "hash": "79fccf8d8874209f1f2d3bfcaa296b6acdca96253bab7cb6e0a46cb4139c7fbc"
+    },
+    {
+      "seq": 65,
+      "day": 2,
+      "type": "construccion",
+      "title": "Se construye: Mercado de Cocos",
+      "text": "",
+      "data": {
+        "id": "mercado-65",
+        "kind": "mercado",
+        "label": "Mercado de Cocos"
+      },
+      "at": "2026-11-13T05:38:52.623Z",
+      "prev": "79fccf8d8874209f1f2d3bfcaa296b6acdca96253bab7cb6e0a46cb4139c7fbc",
+      "hash": "699b418c74fb446a2416851b729bf3433ddcb6b1212403dddeec31f24221a104"
+    },
+    {
+      "seq": 66,
+      "day": 2,
+      "type": "construccion",
+      "title": "Se construye: Escuela de Supervivencia",
+      "text": "",
+      "data": {
+        "id": "escuela-66",
+        "kind": "escuela",
+        "label": "Escuela de Supervivencia"
+      },
+      "at": "2026-11-13T05:38:52.689Z",
+      "prev": "699b418c74fb446a2416851b729bf3433ddcb6b1212403dddeec31f24221a104",
+      "hash": "e33deab00726162c1236836e7ff9f8a482d36493cd0e4a4e15218ec61a30c598"
+    },
+    {
+      "seq": 67,
+      "day": 2,
+      "type": "rol",
+      "title": "@_.spoooky._ ahora es: Villano/a",
+      "text": "",
+      "data": {
+        "handle": "_.spoooky._",
+        "oficio": "villano",
+        "titulo": "Villano/a",
+        "costo": 0
+      },
+      "at": "2026-11-13T05:39:02.009Z",
+      "prev": "e33deab00726162c1236836e7ff9f8a482d36493cd0e4a4e15218ec61a30c598",
+      "hash": "63d0792b3fb119e5cc063b498bc8f4ea194d347517a2c02e0e1a3d0b37468e67"
+    },
+    {
+      "seq": 68,
+      "day": 2,
+      "type": "rol",
+      "title": "@angiie_011 ahora es: Policía",
+      "text": "",
+      "data": {
+        "handle": "angiie_011",
+        "oficio": "policia",
+        "titulo": "Policía",
+        "costo": 0
+      },
+      "at": "2026-11-13T05:39:02.088Z",
+      "prev": "63d0792b3fb119e5cc063b498bc8f4ea194d347517a2c02e0e1a3d0b37468e67",
+      "hash": "c15e56f4467ceb3c4bf6d695a615c95bac56fcdae9ec062a9fa53287da646cf7"
+    },
+    {
+      "seq": 69,
+      "day": 2,
+      "type": "rol",
+      "title": "@nezkuik_rj ahora es: Bombero/a",
+      "text": "",
+      "data": {
+        "handle": "nezkuik_rj",
+        "oficio": "bombero",
+        "titulo": "Bombero/a",
+        "costo": 0
+      },
+      "at": "2026-11-13T05:39:02.169Z",
+      "prev": "c15e56f4467ceb3c4bf6d695a615c95bac56fcdae9ec062a9fa53287da646cf7",
+      "hash": "884b35d1dd14ba1c7a867df79dc342f56207997c79efc935dbf54807f7c0ea61"
+    },
+    {
+      "seq": 70,
+      "day": 2,
+      "type": "rol",
+      "title": "@erik_omaiga ahora es: Ingeniero/a",
+      "text": "",
+      "data": {
+        "handle": "erik_omaiga",
+        "oficio": "ingeniero",
+        "titulo": "Ingeniero/a",
+        "costo": 0
+      },
+      "at": "2026-11-13T05:39:02.257Z",
+      "prev": "884b35d1dd14ba1c7a867df79dc342f56207997c79efc935dbf54807f7c0ea61",
+      "hash": "bff6f5afca81b20404759fb67dbb5fd6c393f8f09af008fc22dc6bab1d54a9b6"
+    },
+    {
+      "seq": 71,
+      "day": 2,
+      "type": "rol",
+      "title": "@afraylin_ ahora es: Cocinero/a",
+      "text": "",
+      "data": {
+        "handle": "afraylin_",
+        "oficio": "cocinero",
+        "titulo": "Cocinero/a",
+        "costo": 0
+      },
+      "at": "2026-11-13T05:39:02.338Z",
+      "prev": "bff6f5afca81b20404759fb67dbb5fd6c393f8f09af008fc22dc6bab1d54a9b6",
+      "hash": "d1849eaf26b427822d782bda7f86cf60f271f4f21ae16c6197883605c86939c3"
+    },
+    {
+      "seq": 72,
+      "day": 2,
+      "type": "rol",
+      "title": "@yare_l2007 ahora es: Músico/a",
+      "text": "",
+      "data": {
+        "handle": "yare_l2007",
+        "oficio": "musico",
+        "titulo": "Músico/a",
+        "costo": 0
+      },
+      "at": "2026-11-13T05:39:02.417Z",
+      "prev": "d1849eaf26b427822d782bda7f86cf60f271f4f21ae16c6197883605c86939c3",
+      "hash": "886c9a51f977eb8b5847726086ab433e7cdb84b11bf88784851ce99d2c67029d"
+    },
+    {
+      "seq": 73,
+      "day": 2,
+      "type": "rol",
+      "title": "@iamleo_privv ahora es: Científico/a",
+      "text": "",
+      "data": {
+        "handle": "iamleo_privv",
+        "oficio": "cientifico",
+        "titulo": "Científico/a",
+        "costo": 0
+      },
+      "at": "2026-11-13T05:39:02.495Z",
+      "prev": "886c9a51f977eb8b5847726086ab433e7cdb84b11bf88784851ce99d2c67029d",
+      "hash": "3b901dab180dadaf4e570d75e9b8f53e16fc99f7aaa1973c8e6269496b6ec317"
+    },
+    {
+      "seq": 74,
+      "day": 2,
+      "type": "rol",
+      "title": "@fochesattovalentin ahora es: Artista",
+      "text": "",
+      "data": {
+        "handle": "fochesattovalentin",
+        "oficio": "artista",
+        "titulo": "Artista",
+        "costo": 0
+      },
+      "at": "2026-11-13T05:39:02.598Z",
+      "prev": "3b901dab180dadaf4e570d75e9b8f53e16fc99f7aaa1973c8e6269496b6ec317",
+      "hash": "798e7f8d9a09dd9844eb93e96c1baac89e651bc2fa7320ccce1df197e8f64388"
+    },
+    {
+      "seq": 75,
+      "day": 2,
+      "type": "rol",
+      "title": "@ab1sssm ahora es: Comerciante",
+      "text": "",
+      "data": {
+        "handle": "ab1sssm",
+        "oficio": "comerciante",
+        "titulo": "Comerciante",
+        "costo": 0
+      },
+      "at": "2026-11-13T05:39:02.698Z",
+      "prev": "798e7f8d9a09dd9844eb93e96c1baac89e651bc2fa7320ccce1df197e8f64388",
+      "hash": "6ed6ec935f34e4df321662b850bceb7fbe378dbd122196b0dc6b02b5b84affd8"
+    },
+    {
+      "seq": 76,
+      "day": 2,
+      "type": "rol",
+      "title": "@drip.sami_ozi ahora es: Maestro/a",
+      "text": "",
+      "data": {
+        "handle": "drip.sami_ozi",
+        "oficio": "maestro",
+        "titulo": "Maestro/a",
+        "costo": 0
+      },
+      "at": "2026-11-13T05:39:02.793Z",
+      "prev": "6ed6ec935f34e4df321662b850bceb7fbe378dbd122196b0dc6b02b5b84affd8",
+      "hash": "39ed4488783275bfbff7c7d4937ad02be25477ba2bda1d9ca234064553516877"
+    },
+    {
+      "seq": 77,
+      "day": 2,
+      "type": "rol",
+      "title": "@janoac_ ahora es: Vagabundo/a",
+      "text": "",
+      "data": {
+        "handle": "janoac_",
+        "oficio": "vagabundo",
+        "titulo": "Vagabundo/a",
+        "costo": 0
+      },
+      "at": "2026-11-13T05:39:02.892Z",
+      "prev": "39ed4488783275bfbff7c7d4937ad02be25477ba2bda1d9ca234064553516877",
+      "hash": "e642ed914f72dec561ca035cde4b4dcd004f954fef4cb1238fdbd2c095592314"
+    },
+    {
+      "seq": 78,
+      "day": 2,
+      "type": "suceso",
+      "title": "Aceras de la Recaudadora",
+      "text": "La recaudadora inauguró aceras por manzana en Vaeloria y en la Calle del Comercio. Jura que fueron pagadas con los impuestos municipales.",
+      "data": {},
+      "at": "2026-11-13T06:12:09.122Z",
+      "prev": "e642ed914f72dec561ca035cde4b4dcd004f954fef4cb1238fdbd2c095592314",
+      "hash": "71f8ce55aca41cbd356ece69950d2fc81692faccbdeeda83d889f9755d090ebb"
+    },
+    {
+      "seq": 79,
+      "day": 2,
+      "type": "rol",
+      "title": "@valenjca ahora es: Comerciante",
+      "text": "",
+      "data": {
+        "handle": "valenjca",
+        "oficio": "comerciante",
+        "titulo": "Comerciante",
+        "costo": 0
+      },
+      "at": "2026-11-13T06:29:38.200Z",
+      "prev": "71f8ce55aca41cbd356ece69950d2fc81692faccbdeeda83d889f9755d090ebb",
+      "hash": "561b521c7faff0c7436a5e412f4a6cdffc070b02ca624e52a8f34fe647a93ce5"
+    },
+    {
+      "seq": 80,
+      "day": 2,
+      "type": "suceso",
+      "title": "Un pez muy grande",
+      "text": "Apareció un pez enorme cerca del muelle que no existe. Ya tiene más seguidores que la isla.",
+      "data": {},
+      "at": "2026-11-13T12:53:01.103Z",
+      "prev": "561b521c7faff0c7436a5e412f4a6cdffc070b02ca624e52a8f34fe647a93ce5",
+      "hash": "0e95115b89d87eab3724b6bebc783dd441cbf0cb808a273859ef856b1cda0fde"
+    },
+    {
+      "seq": 81,
+      "day": 3,
+      "type": "votacion_cerrada",
+      "title": "Resultado: 🟢 Sí, un hospital",
+      "text": "¿Construimos un hospital? → ganó \"🟢 Sí, un hospital\".",
+      "data": {
+        "id": "hospital",
+        "winner": "verde",
+        "counts": {
+          "verde": 12,
+          "rojo": 0
+        },
+        "effect": {
+          "build": {
+            "id": "hospital-hospital",
+            "kind": "hospital",
+            "label": "Hospital"
+          }
+        }
+      },
+      "at": "2026-11-13T12:54:30.064Z",
+      "prev": "0e95115b89d87eab3724b6bebc783dd441cbf0cb808a273859ef856b1cda0fde",
+      "hash": "608da0f07cb611c8fd0709b0f2d1f484e931be56de3c1ef7012e07434854b021"
+    },
+    {
+      "seq": 82,
+      "day": 3,
+      "type": "votacion_cerrada",
+      "title": "Ganó: La bandera de san andres, porfa bro",
+      "text": "¿Cómo es la bandera de la isla? → \"La bandera de san andres, porfa bro\" (propuesta de @davletsko, 1 likes).",
+      "data": {
+        "id": "bandera",
+        "winner": "La bandera de san andres, porfa bro",
+        "author": "davletsko",
+        "counts": {
+          "likes": 1
+        },
+        "effect": {
+          "flag": {
+            "colors": [
+              "#0088cc",
+              "#ffffff",
+              "#0088cc"
+            ],
+            "symbol": "✖️",
+            "author": "davletsko",
+            "idea": "La bandera de san andres, porfa bro"
+          }
+        }
+      },
+      "at": "2026-11-13T12:54:48.527Z",
+      "prev": "608da0f07cb611c8fd0709b0f2d1f484e931be56de3c1ef7012e07434854b021",
+      "hash": "7da0ba715bea069783a97aea2b018e5977285e3d6bed80482cf4264e4b194b60"
+    },
+    {
+      "seq": 83,
+      "day": 3,
+      "type": "votacion_abierta",
+      "title": "¿Construimos un ayuntamiento?",
+      "text": "",
+      "data": {
+        "id": "ayuntamiento",
+        "question": "¿Construimos un ayuntamiento?",
+        "options": [
+          {
+            "id": "verde",
+            "label": "🟢 Sí, un ayuntamiento"
+          },
+          {
+            "id": "rojo",
+            "label": "🔴 No, que siga el caos"
+          }
+        ],
+        "optionEffects": {
+          "verde": [
+            "--construir",
+            "ayuntamiento:Ayuntamiento"
+          ]
+        }
+      },
+      "at": "2026-11-13T12:54:48.614Z",
+      "prev": "7da0ba715bea069783a97aea2b018e5977285e3d6bed80482cf4264e4b194b60",
+      "hash": "9db5ccd66b12972bdf0414f81a31666b20f6ae6f76b25c8535a9c1cce8fc2e69"
+    },
+    {
+      "seq": 84,
+      "day": 3,
+      "type": "llegada",
+      "title": "Llegan 2 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "eliasobed_1",
+          "jxl_xm"
+        ]
+      },
+      "at": "2026-11-13T18:10:56.000Z",
+      "prev": "9db5ccd66b12972bdf0414f81a31666b20f6ae6f76b25c8535a9c1cce8fc2e69",
+      "hash": "4467db28d46ec2eeec5f95fafb44810e135dd022cf1e9bc373eb574002004c3a"
+    },
+    {
+      "seq": 85,
+      "day": 3,
+      "type": "construccion",
+      "title": "Se construye: Granja Comunal",
+      "text": "",
+      "data": {
+        "id": "granja-85",
+        "kind": "granja",
+        "label": "Granja Comunal"
+      },
+      "at": "2026-11-13T18:11:08.157Z",
+      "prev": "4467db28d46ec2eeec5f95fafb44810e135dd022cf1e9bc373eb574002004c3a",
+      "hash": "f248757c6e388c0029bd6b0eb4264ac5ed39370d5197dde3af3269ee121b94bd"
+    },
+    {
+      "seq": 86,
+      "day": 3,
+      "type": "construccion",
+      "title": "Se construye: Cancha de Fútbol",
+      "text": "",
+      "data": {
+        "id": "estadio-86",
+        "kind": "estadio",
+        "label": "Cancha de Fútbol"
+      },
+      "at": "2026-11-13T18:11:08.240Z",
+      "prev": "f248757c6e388c0029bd6b0eb4264ac5ed39370d5197dde3af3269ee121b94bd",
+      "hash": "71dcbab006d8d99977f691a88e7f0da43815b0085e31dcdca2af0052c8a0af75"
+    },
+    {
+      "seq": 87,
+      "day": 3,
+      "type": "compartido",
+      "title": "3 habitantes compartieron la isla",
+      "text": "+15 🪙 cada uno.",
+      "data": {
+        "handles": [
+          "valen.englad",
+          "rfr25_1",
+          "naz.cbs"
+        ]
+      },
+      "at": "2026-11-13T18:11:32.586Z",
+      "prev": "71dcbab006d8d99977f691a88e7f0da43815b0085e31dcdca2af0052c8a0af75",
+      "hash": "eb9ccb916e778b7259820d472e507815daba94aff09c052e4fd5b98dcf469baa"
+    },
+    {
+      "seq": 88,
+      "day": 3,
+      "type": "rol",
+      "title": "@poetacontraluz pide ser: Viejo del Bosque (cuesta 15 🪙)",
+      "text": "",
+      "data": {
+        "handle": "poetacontraluz",
+        "oficio": "granjero",
+        "titulo": "Viejo del Bosque",
+        "costo": 15
+      },
+      "at": "2026-11-13T18:11:32.677Z",
+      "prev": "eb9ccb916e778b7259820d472e507815daba94aff09c052e4fd5b98dcf469baa",
+      "hash": "9f25058bb0297005864dc285ec70ec12814bb6643f31e3c996ae43f3558e8b56"
+    },
+    {
+      "seq": 89,
+      "day": 3,
+      "type": "rol",
+      "title": "@valen.englad pide ser: Futbolista Estrella (cuesta 15 🪙)",
+      "text": "",
+      "data": {
+        "handle": "valen.englad",
+        "oficio": "deportista",
+        "titulo": "Futbolista Estrella",
+        "costo": 15
+      },
+      "at": "2026-11-13T18:11:32.767Z",
+      "prev": "9f25058bb0297005864dc285ec70ec12814bb6643f31e3c996ae43f3558e8b56",
+      "hash": "5a37079dc0faf4233b3c5e2e45a8de947a2e1b89a68c10217e695c35f7687275"
+    },
+    {
+      "seq": 90,
+      "day": 3,
+      "type": "rol",
+      "title": "@marxx7883 ahora es: Payaso de la Fuente",
+      "text": "",
+      "data": {
+        "handle": "marxx7883",
+        "oficio": "artista",
+        "titulo": "Payaso de la Fuente",
+        "costo": 0
+      },
+      "at": "2026-11-13T18:11:32.856Z",
+      "prev": "5a37079dc0faf4233b3c5e2e45a8de947a2e1b89a68c10217e695c35f7687275",
+      "hash": "86a1648b4f9211ab393cb722a740dab9f2bbc67ba0e8c289e6524439ad1da44b"
+    },
+    {
+      "seq": 91,
+      "day": 3,
+      "type": "rol",
+      "title": "@terranovaxpy pide ser: Herrero de Vaeloria (cuesta 15 🪙)",
+      "text": "",
+      "data": {
+        "handle": "terranovaxpy",
+        "oficio": "constructor",
+        "titulo": "Herrero de Vaeloria",
+        "costo": 15
+      },
+      "at": "2026-11-13T18:11:32.945Z",
+      "prev": "86a1648b4f9211ab393cb722a740dab9f2bbc67ba0e8c289e6524439ad1da44b",
+      "hash": "03a535f9d083aabf81afaa2e5bd821f120389f7135d6cd7cdbb8619febfc256e"
+    },
+    {
+      "seq": 92,
+      "day": 3,
+      "type": "rol",
+      "title": "@erik_omaiga pide ser: Villano Aliado (cuesta 100 🪙)",
+      "text": "",
+      "data": {
+        "handle": "erik_omaiga",
+        "oficio": "villano",
+        "titulo": "Villano Aliado",
+        "costo": 100
+      },
+      "at": "2026-11-13T18:11:33.033Z",
+      "prev": "03a535f9d083aabf81afaa2e5bd821f120389f7135d6cd7cdbb8619febfc256e",
+      "hash": "9c35cd61695425b9a041d6d45a89088bb397f8875811fb9967ba119c8ab0ec31"
+    },
+    {
+      "seq": 93,
+      "day": 3,
+      "type": "rol",
+      "title": "@rfr25_1 ahora es: León del Bosque",
+      "text": "",
+      "data": {
+        "handle": "rfr25_1",
+        "oficio": "animal",
+        "titulo": "León del Bosque",
+        "costo": 0
+      },
+      "at": "2026-11-13T18:11:33.124Z",
+      "prev": "9c35cd61695425b9a041d6d45a89088bb397f8875811fb9967ba119c8ab0ec31",
+      "hash": "8de8b42ff6a1725fb8ec301afe0ec9daec12703edfa5a0accbe6a6c1ebf6a60c"
+    },
+    {
+      "seq": 94,
+      "day": 3,
+      "type": "rol",
+      "title": "@naz.cbs ahora es: Cocodrilo del Río",
+      "text": "",
+      "data": {
+        "handle": "naz.cbs",
+        "oficio": "animal",
+        "titulo": "Cocodrilo del Río",
+        "costo": 0
+      },
+      "at": "2026-11-13T18:11:33.213Z",
+      "prev": "8de8b42ff6a1725fb8ec301afe0ec9daec12703edfa5a0accbe6a6c1ebf6a60c",
+      "hash": "289760c6d239d525b3463c2ef578a0378d7df7021afbcba5599547514455aa4c"
+    },
+    {
+      "seq": 95,
+      "day": 3,
+      "type": "negocio",
+      "title": "🏪 @valenjca abre «Arepas»",
+      "text": "Calle del Comercio. Inversión: 30 🪙.",
+      "data": {
+        "handle": "valenjca",
+        "id": "neg-valenjca",
+        "nombre": "Arepas",
+        "color": "#4c34fe",
+        "rubro": "restaurante"
+      },
+      "at": "2026-11-13T21:00:05.031Z",
+      "prev": "289760c6d239d525b3463c2ef578a0378d7df7021afbcba5599547514455aa4c",
+      "hash": "6ba2d8e8f5fed11a860ee4a7f0f704afd72982b63664aa0090ea82c3482df616"
+    },
+    {
+      "seq": 96,
+      "day": 3,
+      "type": "rol",
+      "title": "@adr.iwaos ahora es: Mago de Vaeloria",
+      "text": "",
+      "data": {
+        "handle": "adr.iwaos",
+        "oficio": "mago",
+        "titulo": "Mago de Vaeloria",
+        "costo": 0
+      },
+      "at": "2026-11-13T23:32:11.012Z",
+      "prev": "6ba2d8e8f5fed11a860ee4a7f0f704afd72982b63664aa0090ea82c3482df616",
+      "hash": "8d0f9d9a81febf0d0ea450c6c1b8ebfefa4f79a1840ccdfcb53e7da0da5cfc1b"
+    },
+    {
+      "seq": 97,
+      "day": 3,
+      "type": "rol",
+      "title": "@dream.yn._ ahora es: Repostera de Vaeloria",
+      "text": "",
+      "data": {
+        "handle": "dream.yn._",
+        "oficio": "repostero",
+        "titulo": "Repostera de Vaeloria",
+        "costo": 0
+      },
+      "at": "2026-11-13T23:32:17.894Z",
+      "prev": "8d0f9d9a81febf0d0ea450c6c1b8ebfefa4f79a1840ccdfcb53e7da0da5cfc1b",
+      "hash": "ff31b5d0428aea585d69a11a0d059cfd8a214390f1f48ccb6af55c0a4556d75c"
+    },
+    {
+      "seq": 98,
+      "day": 3,
+      "type": "construccion",
+      "title": "Se construye: La Posada",
+      "text": "",
+      "data": {
+        "id": "posada-98",
+        "kind": "posada",
+        "label": "La Posada"
+      },
+      "at": "2026-11-13T23:32:23.966Z",
+      "prev": "ff31b5d0428aea585d69a11a0d059cfd8a214390f1f48ccb6af55c0a4556d75c",
+      "hash": "831d60fd7aae34af5c5722c8b8e19e9aa20939c229fcd68d1d03f889f91c5b45"
+    },
+    {
+      "seq": 99,
+      "day": 3,
+      "type": "suceso",
+      "title": "Tensión en el Archipiélago",
+      "text": "Descubrimos que la Isla de YouTube existe y ya son 65. ¿Nos preparamos para defendernos o atacamos primero? Los habitantes deciden.",
+      "data": {},
+      "at": "2026-11-13T23:32:31.491Z",
+      "prev": "831d60fd7aae34af5c5722c8b8e19e9aa20939c229fcd68d1d03f889f91c5b45",
+      "hash": "d2b135554527aacd6430f7052a2fdca45dc27c9615f4e33fc300400844b31070"
+    },
+    {
+      "seq": 100,
+      "day": 3,
+      "type": "llegada",
+      "title": "Llega @vecino_100",
+      "text": "",
+      "data": {
+        "handles": [
+          "vecino_100"
+        ]
+      },
+      "at": "2026-11-14T01:53:27.872Z",
+      "prev": "d2b135554527aacd6430f7052a2fdca45dc27c9615f4e33fc300400844b31070",
+      "hash": "d476bbea61ad8d7986cf772480d92822bbb8288a1ee79c8848e1cd980726db73"
+    },
+    {
+      "seq": 101,
+      "day": 3,
+      "type": "suceso",
+      "title": "¡Hito Histórico: 100 Habitantes!",
+      "text": "Vaeloria pasa oficialmente de una roca desierta con 0 personas a una civilización de más de 100 vecinos con comercios, magia y un archipiélago en tensión.",
+      "data": {},
+      "at": "2026-11-14T01:53:35.482Z",
+      "prev": "d476bbea61ad8d7986cf772480d92822bbb8288a1ee79c8848e1cd980726db73",
+      "hash": "4e59c54e98d5b453060b297eccc549cb508dbdd4fe7225f7eddca2492308b1b8"
+    },
+    {
+      "seq": 102,
+      "day": 3,
+      "type": "suceso",
+      "title": "Se cae el wifi",
+      "text": "Se cayó el wifi. Pequeño detalle: nunca hubo wifi. La isla está en crisis igual.",
+      "data": {},
+      "at": "2026-11-14T03:00:04.550Z",
+      "prev": "4e59c54e98d5b453060b297eccc549cb508dbdd4fe7225f7eddca2492308b1b8",
+      "hash": "02a762ec34cf05e3268c050913bf2ef343e34d4c1edab0ff1d419d545021c95f"
+    },
+    {
+      "seq": 103,
+      "day": 3,
+      "type": "llegada",
+      "title": "Llegan 4 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "matevulpix",
+          "vlood_3scen1e",
+          "g_h._.0399",
+          "thomasjaime25"
+        ]
+      },
+      "at": "2026-11-14T03:01:40.899Z",
+      "prev": "02a762ec34cf05e3268c050913bf2ef343e34d4c1edab0ff1d419d545021c95f",
+      "hash": "45b6bff27f9e37605436d639c1e0a42ed10b458dce8d74c5594b6020f7f0e7a6"
+    },
+    {
+      "seq": 104,
+      "day": 3,
+      "type": "suceso",
+      "title": "¡100 seguidores!",
+      "text": "La isla celebra: ya somos 100. El narrador finge que no se emociona.",
+      "data": {},
+      "at": "2026-11-14T09:00:04.783Z",
+      "prev": "45b6bff27f9e37605436d639c1e0a42ed10b458dce8d74c5594b6020f7f0e7a6",
+      "hash": "5f0a9b55493867470f44b6d64cfea6121638ccc6f3076c1c7f5839583b4d7920"
+    }
+  ]
+}

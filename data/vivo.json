@@ -1,0 +1,282 @@
+{
+  "actualizado": "2026-11-14T09:00:04.702Z",
+  "seguidores": 103,
+  "reel": null,
+  "votos": {
+    "ayuntamiento": {
+      "counts": {
+        "verde": 12,
+        "rojo": 0
+      },
+      "total": 12
+    }
+  },
+  "propuestas": {
+    "mar": [
+      {
+        "texto": "La bandera de san andres, porfa bro",
+        "autor": "davletsko",
+        "likes": 1
+      },
+      {
+        "texto": "Yo pondré mi oficina para cobrar la renta",
+        "autor": "liamelia_ss",
+        "likes": 1
+      },
+      {
+        "texto": "Me reporto",
+        "autor": "erik_omaiga",
+        "likes": 0
+      }
+    ]
+  },
+  "destacados": [
+    {
+      "autor": "jhxz_thx",
+      "likes": 2,
+      "texto": "Yoo ya te segui quiero ser un gato negro o naranja"
+    },
+    {
+      "autor": "mrwormate_1905",
+      "likes": 2,
+      "texto": "@ab1sssm calla cachorra"
+    },
+    {
+      "autor": "ab1sssm",
+      "likes": 1,
+      "texto": "Propongo que el país se llame “Vaeloria”"
+    },
+    {
+      "autor": "ab1sssm",
+      "likes": 1,
+      "texto": "@mrwormate_1905 el gay será"
+    },
+    {
+      "autor": "clemenlastra",
+      "likes": 1,
+      "texto": "yo quiero ser el urbanista"
+    }
+  ],
+  "clasificados": {
+    "voto": [
+      {
+        "autor": "ab1sssm",
+        "texto": "VERDEEEE",
+        "likes": 1
+      },
+      {
+        "autor": "liamelia_ss",
+        "texto": "Verde",
+        "likes": 1
+      },
+      {
+        "autor": "lucofloreal",
+        "texto": "Verdeee",
+        "likes": 0
+      },
+      {
+        "autor": "micamendoza02",
+        "texto": "Verde",
+        "likes": 0
+      },
+      {
+        "autor": "mrwormate_1905",
+        "texto": "Verdeee",
+        "likes": 1
+      },
+      {
+        "autor": "nanimimq",
+        "texto": "🟢asi si soy científica loca puedo hacer experimentos alli jijiji",
+        "likes": 0
+      },
+      {
+        "autor": "no_soy_zaac",
+        "texto": "verdeeee",
+        "likes": 0
+      },
+      {
+        "autor": "poetacontraluz",
+        "texto": "Verdeeee",
+        "likes": 0
+      },
+      {
+        "autor": "valenjca",
+        "texto": "Verde",
+        "likes": 0
+      }
+    ],
+    "respuesta": [
+      {
+        "autor": "ab1sssm",
+        "texto": "@mrwormate_1905 el gay será",
+        "likes": 1
+      },
+      {
+        "autor": "mrwormate_1905",
+        "texto": "@ab1sssm calla cachorra",
+        "likes": 2
+      },
+      {
+        "autor": "mrwormate_1905",
+        "texto": "@liamelia_ss pero de femboys 😳 ajlajajajjaha",
+        "likes": 1
+      }
+    ],
+    "rol": [
+      {
+        "autor": "afraylin_",
+        "texto": "Verdeeeeee, quiero ser la directora del hospital 🏥",
+        "likes": 0
+      },
+      {
+        "autor": "clemenlastra",
+        "texto": "yo quiero ser el urbanista",
+        "likes": 1
+      },
+      {
+        "autor": "davletsko",
+        "texto": "Quiero ser constructor",
+        "likes": 0
+      },
+      {
+        "autor": "jimmyndur",
+        "texto": "Yo quiero ser soldador de estructuras metálicas 😍",
+        "likes": 0
+      },
+      {
+        "autor": "jostin_soto06",
+        "texto": "Quiero ser el rey",
+        "likes": 0
+      },
+      {
+        "autor": "l.damian.91",
+        "texto": "Quiero ser una tortuga",
+        "likes": 1
+      },
+      {
+        "autor": "menor_brooklyn.v_",
+        "texto": "Quiero ser ingeniero electricista",
+        "likes": 0
+      },
+      {
+        "autor": "micamendoza02",
+        "texto": "Quiero ser pescadora",
+        "likes": 0
+      },
+      {
+        "autor": "mrwormate_1905",
+        "texto": "Quiero ser el gamer",
+        "likes": 1
+      },
+      {
+        "autor": "nanimimq",
+        "texto": "Quiero ser una científica locaaaaaa",
+        "likes": 0
+      },
+      {
+        "autor": "nezkuik_rj",
+        "texto": "Verdeee yo soy doctor",
+        "likes": 0
+      },
+      {
+        "autor": "no_soy_zaac",
+        "texto": "quiero ser de la mafia",
+        "likes": 0
+      },
+      {
+        "autor": "no_soy_zaac",
+        "texto": "quiero ser de la mafia",
+        "likes": 0
+      },
+      {
+        "autor": "shn.ww_7",
+        "texto": "Yo soy mafia , yo quiero aliados",
+        "likes": 1
+      },
+      {
+        "autor": "terranovaxpy",
+        "texto": "Quiero ser el primer herrero de vaeloria",
+        "likes": 0
+      },
+      {
+        "autor": "yare_l2007",
+        "texto": "Quiero ser el Ingeniero que construya los hospitales🟢🟢🟢",
+        "likes": 1
+      }
+    ],
+    "negocio": [
+      {
+        "autor": "andrxx_07_",
+        "texto": "Quiero ser el único con un edificio",
+        "likes": 0
+      }
+    ],
+    "propuesta": [
+      {
+        "autor": "davletsko",
+        "texto": "La bandera de san andres, porfa bro",
+        "likes": 1
+      },
+      {
+        "autor": "erik_omaiga",
+        "texto": "Me reporto",
+        "likes": 0
+      },
+      {
+        "autor": "liamelia_ss",
+        "texto": "Yo pondré mi oficina para cobrar la renta",
+        "likes": 1
+      },
+      {
+        "autor": "no_soy_zaac",
+        "texto": "quiero ser de",
+        "likes": 0
+      },
+      {
+        "autor": "papulin1.0",
+        "texto": "Aparezco en el 0:27 🔥🔥, construye un hospital pije, quiero trabajar pescando 🥶🔥🔥",
+        "likes": 0
+      },
+      {
+        "autor": "valen.englad",
+        "texto": "Déjenme ser futbolistaaa",
+        "likes": 0
+      },
+      {
+        "autor": "valen.englad",
+        "texto": "Agan un estadiooooo",
+        "likes": 0
+      },
+      {
+        "autor": "valenjca",
+        "texto": "ISLA-F61AF",
+        "likes": 0
+      },
+      {
+        "autor": "valenjca",
+        "texto": "La bandera en llamas🔥",
+        "likes": 0
+      }
+    ],
+    "opinion": [
+      {
+        "autor": "deyllyn.fc",
+        "texto": "Día dos pidiendo ser la presidentaaaaa, quiero hacer una estatua mia en medio del pueblo",
+        "likes": 1
+      },
+      {
+        "autor": "liamelia_ss",
+        "texto": "Que la bandera sea azul con rayas verdes y tenga un pino en el centro",
+        "likes": 1
+      }
+    ],
+    "ruido": [
+      {
+        "autor": "menor_brooklyn.v_",
+        "texto": "👏",
+        "likes": 0
+      }
+    ]
+  },
+  "roles": 31
+}

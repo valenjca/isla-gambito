@@ -1,0 +1,566 @@
+{
+  "events": [
+    {
+      "seq": 0,
+      "day": 1,
+      "type": "fundacion",
+      "title": "Emerge una isla",
+      "text": "Del mar ha surgido una isla vacía. No tiene nombre, ni bandera, ni habitantes. Todo lo decidirán quienes lleguen.",
+      "data": {
+        "account": ""
+      },
+      "at": "2026-11-13T04:48:06.733Z",
+      "prev": "0000000000000000000000000000000000000000000000000000000000000000",
+      "hash": "ec215f0a09d4137e93b165e0942f62b243ce05dff8576fcaec21a3c65045e3da"
+    },
+    {
+      "seq": 1,
+      "day": 1,
+      "type": "suceso",
+      "title": "Emerge la Isla YouTube",
+      "text": "Una tercera isla con forma de botón de Play acaba de salir del mar frente a Vaeloria y TikTok. Nadie vive aquí todavía.",
+      "data": {},
+      "at": "2026-11-13T04:48:06.820Z",
+      "prev": "ec215f0a09d4137e93b165e0942f62b243ce05dff8576fcaec21a3c65045e3da",
+      "hash": "89724f8ef401c3a3d3c1ac04faf22a22f7bb3b2ce1bb1f2c3075ba3503acb621"
+    },
+    {
+      "seq": 2,
+      "day": 1,
+      "type": "votacion_abierta",
+      "title": "¿Cómo se llama la Isla YouTube?",
+      "text": "",
+      "data": {
+        "id": "nombre",
+        "question": "¿Cómo se llama la Isla YouTube?",
+        "mode": "propuestas",
+        "effect": "nombre",
+        "options": []
+      },
+      "at": "2026-11-13T04:48:42.944Z",
+      "prev": "89724f8ef401c3a3d3c1ac04faf22a22f7bb3b2ce1bb1f2c3075ba3503acb621",
+      "hash": "f07f030ad0939e2459d35c96bb3260bac423168a6649fc3694169154f24bf084"
+    },
+    {
+      "seq": 3,
+      "day": 2,
+      "type": "llegada",
+      "title": "Llegan 9 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "manuelgamero-p3u",
+          "mattuch2335",
+          "papoy-c5i",
+          "xxc00lkiddx",
+          "santiagovideosepicosxdd-h3h",
+          "jaimeandresmorasantos",
+          "realandres-i5t",
+          "jersonarevalo-r7u",
+          "andremont511"
+        ]
+      },
+      "at": "2026-11-13T13:37:29.885Z",
+      "prev": "f07f030ad0939e2459d35c96bb3260bac423168a6649fc3694169154f24bf084",
+      "hash": "7780fe9845a0f8a545474af18b2525046ba49c862c21fabf712711479bd16de7"
+    },
+    {
+      "seq": 4,
+      "day": 2,
+      "type": "votacion_cerrada",
+      "title": "Ganó: Oriente",
+      "text": "¿Cómo se llama la Isla YouTube? → \"Oriente\" (propuesta de @manuelgamero-p3u, 1 likes).",
+      "data": {
+        "id": "nombre",
+        "winner": "Oriente",
+        "author": "manuelgamero-p3u",
+        "counts": {
+          "likes": 1
+        },
+        "effect": {
+          "rename": "Oriente"
+        }
+      },
+      "at": "2026-11-13T13:37:29.954Z",
+      "prev": "7780fe9845a0f8a545474af18b2525046ba49c862c21fabf712711479bd16de7",
+      "hash": "7aa9103c835c262658cd04a4531e2691a80208222571bf7f31040b728c178c91"
+    },
+    {
+      "seq": 5,
+      "day": 2,
+      "type": "construccion",
+      "title": "Se construye: Plaza de Oriente",
+      "text": "",
+      "data": {
+        "id": "plaza-5",
+        "kind": "plaza",
+        "label": "Plaza de Oriente"
+      },
+      "at": "2026-11-13T13:37:30.043Z",
+      "prev": "7aa9103c835c262658cd04a4531e2691a80208222571bf7f31040b728c178c91",
+      "hash": "211989f57f310e191756f3ee219ff60a1dafa1ffe329ba7a9adc99f8f03404e6"
+    },
+    {
+      "seq": 6,
+      "day": 2,
+      "type": "construccion",
+      "title": "Se construye: Titán de Piedra",
+      "text": "",
+      "data": {
+        "id": "torre-6",
+        "kind": "torre",
+        "label": "Titán de Piedra"
+      },
+      "at": "2026-11-13T13:37:30.122Z",
+      "prev": "211989f57f310e191756f3ee219ff60a1dafa1ffe329ba7a9adc99f8f03404e6",
+      "hash": "7cb7eae9ed5851133d9c8b44b18e53cc6d95cea7964c424564eb78ce84889236"
+    },
+    {
+      "seq": 7,
+      "day": 2,
+      "type": "rol",
+      "title": "@manuelgamero-p3u pide ser: Fundador de Oriente (cuesta 100 🪙)",
+      "text": "",
+      "data": {
+        "handle": "manuelgamero-p3u",
+        "oficio": "gobernante",
+        "titulo": "Fundador de Oriente",
+        "costo": 100
+      },
+      "at": "2026-11-13T13:37:30.197Z",
+      "prev": "7cb7eae9ed5851133d9c8b44b18e53cc6d95cea7964c424564eb78ce84889236",
+      "hash": "0ae07c3081c67a9a3df058cbef5b9f4e7067c1aff1832be35c58677be9564b14"
+    },
+    {
+      "seq": 8,
+      "day": 2,
+      "type": "rol",
+      "title": "@santiagovideosepicosxdd-h3h pide ser: Guardián del Titán (cuesta 15 🪙)",
+      "text": "",
+      "data": {
+        "handle": "santiagovideosepicosxdd-h3h",
+        "oficio": "guardia",
+        "titulo": "Guardián del Titán",
+        "costo": 15
+      },
+      "at": "2026-11-13T13:37:30.281Z",
+      "prev": "0ae07c3081c67a9a3df058cbef5b9f4e7067c1aff1832be35c58677be9564b14",
+      "hash": "370c14e828612f502e36f38136ee70f78b4d034c94bfac355454fa1c3cc7b2d1"
+    },
+    {
+      "seq": 9,
+      "day": 2,
+      "type": "rol",
+      "title": "@xxc00lkiddx ahora es: Team C00lkidd",
+      "text": "",
+      "data": {
+        "handle": "xxc00lkiddx",
+        "oficio": "libre",
+        "titulo": "Team C00lkidd",
+        "costo": 0
+      },
+      "at": "2026-11-13T13:37:30.434Z",
+      "prev": "370c14e828612f502e36f38136ee70f78b4d034c94bfac355454fa1c3cc7b2d1",
+      "hash": "15219a28f1b3b7258ac96a7c6b8c7d403b278e23499f01d26e982c3b1ebab26b"
+    },
+    {
+      "seq": 10,
+      "day": 2,
+      "type": "votacion_abierta",
+      "title": "¿Cómo será la bandera de Oriente?",
+      "text": "",
+      "data": {
+        "id": "bandera",
+        "question": "¿Cómo será la bandera de Oriente?",
+        "mode": "propuestas",
+        "effect": "bandera",
+        "options": []
+      },
+      "at": "2026-11-13T13:37:30.517Z",
+      "prev": "15219a28f1b3b7258ac96a7c6b8c7d403b278e23499f01d26e982c3b1ebab26b",
+      "hash": "0bd7a46de65d670e218c168290a1a478fbea20d2235c589501755e24c408dfc0"
+    },
+    {
+      "seq": 11,
+      "day": 2,
+      "type": "rol",
+      "title": "@mattuch2335 pide ser: Gamer de PlayStation (cuesta 40 🪙)",
+      "text": "",
+      "data": {
+        "handle": "mattuch2335",
+        "oficio": "ingeniero",
+        "titulo": "Gamer de PlayStation",
+        "costo": 40
+      },
+      "at": "2026-11-13T13:37:41.801Z",
+      "prev": "0bd7a46de65d670e218c168290a1a478fbea20d2235c589501755e24c408dfc0",
+      "hash": "09b2ebe13d0520432280822fbf9942614a3407e947e48b909b73aa7284ec9cd5"
+    },
+    {
+      "seq": 12,
+      "day": 2,
+      "type": "construccion",
+      "title": "Se construye: Mercado de Oriente",
+      "text": "",
+      "data": {
+        "id": "mercado-12",
+        "kind": "mercado",
+        "label": "Mercado de Oriente"
+      },
+      "at": "2026-11-13T14:24:39.584Z",
+      "prev": "09b2ebe13d0520432280822fbf9942614a3407e947e48b909b73aa7284ec9cd5",
+      "hash": "a0cb4ccc9b7326e3344705b07ab6daec9c2c4f4a6e5b403633614677805fb7c9"
+    },
+    {
+      "seq": 13,
+      "day": 2,
+      "type": "construccion",
+      "title": "Se construye: Escuela de Oriente",
+      "text": "",
+      "data": {
+        "id": "escuela-13",
+        "kind": "escuela",
+        "label": "Escuela de Oriente"
+      },
+      "at": "2026-11-13T14:24:39.661Z",
+      "prev": "a0cb4ccc9b7326e3344705b07ab6daec9c2c4f4a6e5b403633614677805fb7c9",
+      "hash": "80beb170702beceafd283c14c1eca72189a532a18c2ac1c566bf1453ca493062"
+    },
+    {
+      "seq": 14,
+      "day": 2,
+      "type": "construccion",
+      "title": "Se construye: Muelle de Oriente",
+      "text": "",
+      "data": {
+        "id": "muelle-14",
+        "kind": "muelle",
+        "label": "Muelle de Oriente"
+      },
+      "at": "2026-11-13T14:24:39.731Z",
+      "prev": "80beb170702beceafd283c14c1eca72189a532a18c2ac1c566bf1453ca493062",
+      "hash": "ef41b7c17a4e33212098acf124b4f1cf90cb36ebdfff9fd893ad06b320100653"
+    },
+    {
+      "seq": 15,
+      "day": 2,
+      "type": "compartido",
+      "title": "3 habitantes compartieron la isla",
+      "text": "+15 🪙 cada uno.",
+      "data": {
+        "handles": [
+          "mattuch2335",
+          "xxc00lkiddx",
+          "jaimeandresmorasantos"
+        ]
+      },
+      "at": "2026-11-13T14:24:52.131Z",
+      "prev": "ef41b7c17a4e33212098acf124b4f1cf90cb36ebdfff9fd893ad06b320100653",
+      "hash": "76ab336093be0d973accd14bb9fda2450c7c521cb9b0a3a3f0644b20a9fa56d4"
+    },
+    {
+      "seq": 16,
+      "day": 3,
+      "type": "compartido",
+      "title": "3 habitantes compartieron la isla",
+      "text": "+15 🪙 cada uno.",
+      "data": {
+        "handles": [
+          "mattuch2335",
+          "xxc00lkiddx",
+          "jaimeandresmorasantos"
+        ]
+      },
+      "at": "2026-11-13T14:25:05.071Z",
+      "prev": "76ab336093be0d973accd14bb9fda2450c7c521cb9b0a3a3f0644b20a9fa56d4",
+      "hash": "8d1a49a466eebf09475f02b219b1b0f89eb62614b89e8c9b3b88d65c13aa5ce0"
+    },
+    {
+      "seq": 17,
+      "day": 3,
+      "type": "negocio",
+      "title": "🏪 @mattuch2335 abre «PlayStation»",
+      "text": "Calle del Comercio. Inversión: 30 🪙.",
+      "data": {
+        "handle": "mattuch2335",
+        "id": "neg-mattuch2335",
+        "nombre": "PlayStation",
+        "color": "#006fcd",
+        "rubro": "tienda"
+      },
+      "at": "2026-11-13T14:25:05.150Z",
+      "prev": "8d1a49a466eebf09475f02b219b1b0f89eb62614b89e8c9b3b88d65c13aa5ce0",
+      "hash": "647b27f13ae6fefb71841b1df78832808fd1357896f7569f606fa9dccce97319"
+    },
+    {
+      "seq": 18,
+      "day": 3,
+      "type": "negocio",
+      "title": "🏪 @xxc00lkiddx abre «Team C00lkidd»",
+      "text": "Calle del Comercio. Inversión: 30 🪙.",
+      "data": {
+        "handle": "xxc00lkiddx",
+        "id": "neg-xxc00lkiddx",
+        "nombre": "Team C00lkidd",
+        "color": "#d90429",
+        "rubro": "edificio"
+      },
+      "at": "2026-11-13T14:25:05.224Z",
+      "prev": "647b27f13ae6fefb71841b1df78832808fd1357896f7569f606fa9dccce97319",
+      "hash": "457c550847a709acffd3a38fd8a10f565d3ff6a50faa7a164b96bde5c65c3b80"
+    },
+    {
+      "seq": 19,
+      "day": 3,
+      "type": "negocio",
+      "title": "🏪 @jaimeandresmorasantos abre «Saramamba»",
+      "text": "Calle del Comercio. Inversión: 30 🪙.",
+      "data": {
+        "handle": "jaimeandresmorasantos",
+        "id": "neg-jaimeandresmorasantos",
+        "nombre": "Saramamba",
+        "color": "#2a9d8f",
+        "rubro": "restaurante"
+      },
+      "at": "2026-11-13T14:25:05.303Z",
+      "prev": "457c550847a709acffd3a38fd8a10f565d3ff6a50faa7a164b96bde5c65c3b80",
+      "hash": "c2269704e8a0f74f5482d1cce7ac0801c15d4af019dcc85e93c26c78ae707f9f"
+    },
+    {
+      "seq": 20,
+      "day": 3,
+      "type": "llegada",
+      "title": "Llegan 31 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "oriente_10",
+          "oriente_11",
+          "oriente_12",
+          "oriente_13",
+          "oriente_14",
+          "oriente_15",
+          "oriente_16",
+          "oriente_17",
+          "oriente_18",
+          "oriente_19",
+          "oriente_20",
+          "oriente_21",
+          "oriente_22",
+          "oriente_23",
+          "oriente_24",
+          "oriente_25",
+          "oriente_26",
+          "oriente_27",
+          "oriente_28",
+          "oriente_29",
+          "oriente_30",
+          "oriente_31",
+          "oriente_32",
+          "oriente_33",
+          "oriente_34",
+          "oriente_35",
+          "oriente_36",
+          "oriente_37",
+          "oriente_38",
+          "oriente_39",
+          "oriente_40"
+        ]
+      },
+      "at": "2026-11-13T14:31:46.880Z",
+      "prev": "c2269704e8a0f74f5482d1cce7ac0801c15d4af019dcc85e93c26c78ae707f9f",
+      "hash": "13b8b7ed03bd06c1a1e255c66cd58f6127c1722e0580cbb0df67f4c61ac24abf"
+    },
+    {
+      "seq": 21,
+      "day": 3,
+      "type": "llegada",
+      "title": "Llegan 13 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "martinretamal-ik8lf",
+          "casadivisaus4180",
+          "team_editorespro",
+          "levantandounlapiz",
+          "yoselinbarillas8705",
+          "familiaorellana3611",
+          "el_caballo_pro",
+          "axelrojas-us2ed",
+          "tortia_desde_cero",
+          "spiderverse666-q2g",
+          "hinchadelgranate",
+          "oriente_52",
+          "oriente_53"
+        ]
+      },
+      "at": "2026-11-13T16:57:00.275Z",
+      "prev": "13b8b7ed03bd06c1a1e255c66cd58f6127c1722e0580cbb0df67f4c61ac24abf",
+      "hash": "4c227beb351090a9c0c6978b6ced683bda711d10abba0b9f34107d63bd044261"
+    },
+    {
+      "seq": 22,
+      "day": 3,
+      "type": "rol",
+      "title": "@casadivisaus4180 pide ser: Guardián de las Barreras (cuesta 15 🪙)",
+      "text": "",
+      "data": {
+        "handle": "casadivisaus4180",
+        "oficio": "guardia",
+        "titulo": "Guardián de las Barreras",
+        "costo": 15
+      },
+      "at": "2026-11-13T16:57:00.361Z",
+      "prev": "4c227beb351090a9c0c6978b6ced683bda711d10abba0b9f34107d63bd044261",
+      "hash": "108b78486e5a6011214c505c69d712aa57cf749c01a111aec2886df146001277"
+    },
+    {
+      "seq": 23,
+      "day": 4,
+      "type": "compartido",
+      "title": "@martinretamal-ik8lf compartió la isla",
+      "text": "+15 🪙 cada uno.",
+      "data": {
+        "handles": [
+          "martinretamal-ik8lf"
+        ]
+      },
+      "at": "2026-11-13T16:57:00.442Z",
+      "prev": "108b78486e5a6011214c505c69d712aa57cf749c01a111aec2886df146001277",
+      "hash": "77694d3fed1119cf5e408588cc5eec673025d5636ac50e3f0c01c1fc53f838e7"
+    },
+    {
+      "seq": 24,
+      "day": 5,
+      "type": "compartido",
+      "title": "@martinretamal-ik8lf compartió la isla",
+      "text": "+15 🪙 cada uno.",
+      "data": {
+        "handles": [
+          "martinretamal-ik8lf"
+        ]
+      },
+      "at": "2026-11-13T16:57:11.701Z",
+      "prev": "77694d3fed1119cf5e408588cc5eec673025d5636ac50e3f0c01c1fc53f838e7",
+      "hash": "f374924499abffa8a7097d1e6c987c109d74a86feff79c1bb53f9ad9d21ca4bd"
+    },
+    {
+      "seq": 25,
+      "day": 5,
+      "type": "negocio",
+      "title": "🏪 @martinretamal-ik8lf abre «Casa 3 Pisos»",
+      "text": "Calle del Comercio. Inversión: 30 🪙.",
+      "data": {
+        "handle": "martinretamal-ik8lf",
+        "id": "neg-martinretamal-ik8lf",
+        "nombre": "Casa 3 Pisos",
+        "color": "#ff9f1c",
+        "rubro": "edificio"
+      },
+      "at": "2026-11-13T16:57:11.785Z",
+      "prev": "f374924499abffa8a7097d1e6c987c109d74a86feff79c1bb53f9ad9d21ca4bd",
+      "hash": "a86e3f5caf5d694ffb216a6b56bb5aaf92aa418ebd47aeab5551c4a3e115783b"
+    },
+    {
+      "seq": 26,
+      "day": 5,
+      "type": "llegada",
+      "title": "Llegan 12 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "elidagomez-t9k",
+          "lauraalejandragonzalez3924",
+          "digcarft",
+          "thiagochavarro-i7j",
+          "oriente_58",
+          "oriente_59",
+          "oriente_60",
+          "oriente_61",
+          "oriente_62",
+          "oriente_63",
+          "oriente_64",
+          "oriente_65"
+        ]
+      },
+      "at": "2026-11-13T23:33:04.343Z",
+      "prev": "a86e3f5caf5d694ffb216a6b56bb5aaf92aa418ebd47aeab5551c4a3e115783b",
+      "hash": "1fad138bed821e1289c02a7df80da039dd0aad38795a0518291f7d5be93fd6ec"
+    },
+    {
+      "seq": 27,
+      "day": 5,
+      "type": "construccion",
+      "title": "Se construye: Armería de Oriente",
+      "text": "",
+      "data": {
+        "id": "armeria-27",
+        "kind": "armeria",
+        "label": "Armería de Oriente"
+      },
+      "at": "2026-11-13T23:33:12.529Z",
+      "prev": "1fad138bed821e1289c02a7df80da039dd0aad38795a0518291f7d5be93fd6ec",
+      "hash": "179fb3227019990f521c6477c0be056d1b49b7077c2118c227e8a1700706832a"
+    },
+    {
+      "seq": 28,
+      "day": 5,
+      "type": "construccion",
+      "title": "Se construye: Cafetería de Oriente",
+      "text": "",
+      "data": {
+        "id": "cafeteria-28",
+        "kind": "cafeteria",
+        "label": "Cafetería de Oriente"
+      },
+      "at": "2026-11-13T23:33:19.218Z",
+      "prev": "179fb3227019990f521c6477c0be056d1b49b7077c2118c227e8a1700706832a",
+      "hash": "8d31f655981589cf8d156ba7e94c87c4650645d8d17e56aba23d490d83070af7"
+    },
+    {
+      "seq": 29,
+      "day": 5,
+      "type": "suceso",
+      "title": "La Gran Rivalidad",
+      "text": "¡Somos 65 suscriptores! Espiamos a Instagram y tienen 99 habitantes, y TikTok parece que será la primera en caer. El Titán de Piedra vigila el horizonte. ¿Atacamos o defendemos?",
+      "data": {},
+      "at": "2026-11-13T23:33:26.265Z",
+      "prev": "8d31f655981589cf8d156ba7e94c87c4650645d8d17e56aba23d490d83070af7",
+      "hash": "5cbf71f6e690a8816603f7ec25a7158fbaec947fb8be6fa465cfbeb6b3482b24"
+    },
+    {
+      "seq": 30,
+      "day": 5,
+      "type": "llegada",
+      "title": "Llegan 20 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "oriente_66",
+          "oriente_67",
+          "oriente_68",
+          "oriente_69",
+          "oriente_70",
+          "oriente_71",
+          "oriente_72",
+          "oriente_73",
+          "oriente_74",
+          "oriente_75",
+          "oriente_76",
+          "oriente_77",
+          "oriente_78",
+          "oriente_79",
+          "oriente_80",
+          "oriente_81",
+          "oriente_82",
+          "oriente_83",
+          "oriente_84",
+          "oriente_85"
+        ]
+      },
+      "at": "2026-11-14T02:50:46.503Z",
+      "prev": "5cbf71f6e690a8816603f7ec25a7158fbaec947fb8be6fa465cfbeb6b3482b24",
+      "hash": "c155b7a494b099c593bcf3f2b098014059c7b6bfbce18958a48035510e51ef7b"
+    }
+  ]
+}
