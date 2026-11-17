@@ -1,0 +1,178 @@
+{
+  "actualizado": "2026-11-17T17:18:11.198Z",
+  "seguidores": 171,
+  "reel": null,
+  "votos": {
+    "ayuntamiento": {
+      "counts": {
+        "verde": 0,
+        "rojo": 0
+      },
+      "total": 0
+    }
+  },
+  "propuestas": {
+    "mar": [
+      {
+        "texto": "Un puerto marítimo dé bukes de guerra",
+        "autor": "kel______f0",
+        "likes": 1
+      },
+      {
+        "texto": "Necesito un f16 con un perrito piloto",
+        "autor": "alobandio330_",
+        "likes": 0
+      },
+      {
+        "texto": "Funes_dylan33",
+        "autor": "funes_dylan33",
+        "likes": 0
+      }
+    ]
+  },
+  "destacados": [
+    {
+      "autor": "el_papu.21",
+      "likes": 3,
+      "texto": "Fuerzas Especiales terrestre y yo quiero ser el es que guía a las fuerzas especiales"
+    },
+    {
+      "autor": "jhxz_thx",
+      "likes": 2,
+      "texto": "Yoo ya te segui quiero ser un gato negro o naranja"
+    },
+    {
+      "autor": "mrwormate_1905",
+      "likes": 2,
+      "texto": "@ab1sssm calla cachorra"
+    },
+    {
+      "autor": "ab1sssm",
+      "likes": 1,
+      "texto": "YO Y @mrwormate_1905 queremos vivir juntos como roomies en una sola casa 🤞🏻🤞🏻🤞🏻"
+    },
+    {
+      "autor": "ab1sssm",
+      "likes": 1,
+      "texto": "Propongo que el país se llame “Vaeloria”"
+    }
+  ],
+  "clasificados": {
+    "opinion": [
+      {
+        "autor": "adr.iwaos",
+        "texto": "Quiero darle un desarrollo a la isla, así que en el día 10 quiero empezar un caos en la isla 👀",
+        "likes": 0
+      },
+      {
+        "autor": "el_papu.21",
+        "texto": "Fuerzas Especiales terrestre y yo quiero ser el es que guía a las fuerzas especiales",
+        "likes": 3
+      },
+      {
+        "autor": "nedi_montoya",
+        "texto": "ponle una muro de contencion alas horillas como la de atack on titan o pon bunkes alas horias como l",
+        "likes": 0
+      },
+      {
+        "autor": "thomasjaime25",
+        "texto": "Necesito varias torretas antiaéreas para defendernos de los aviones enemigos con un gato negro con e",
+        "likes": 0
+      }
+    ],
+    "propuesta": [
+      {
+        "autor": "alobandio330_",
+        "texto": "Necesito un f16 con un perrito piloto",
+        "likes": 0
+      },
+      {
+        "autor": "funes_dylan33",
+        "texto": "Funes_dylan33",
+        "likes": 0
+      },
+      {
+        "autor": "fvndo_gnzlz",
+        "texto": "ISLA-0ED15",
+        "likes": 0
+      },
+      {
+        "autor": "ikerpmhjs",
+        "texto": "un transformer🫰🏻",
+        "likes": 0
+      },
+      {
+        "autor": "javiercordoba01",
+        "texto": "Bace militar",
+        "likes": 0
+      },
+      {
+        "autor": "kel______f0",
+        "texto": "Un puerto marítimo dé bukes de guerra",
+        "likes": 1
+      },
+      {
+        "autor": "koala.3698892",
+        "texto": "Nuevo seguidor puedo ser habitante",
+        "likes": 0
+      },
+      {
+        "autor": "menor_brooklyn.v_",
+        "texto": "Una red criminal",
+        "likes": 0
+      },
+      {
+        "autor": "net0n_4",
+        "texto": "Yo quiero al pterodactilo de ciudad juarez",
+        "likes": 0
+      },
+      {
+        "autor": "sth_hxto3",
+        "texto": "Yo quiero un F-160 Raiju",
+        "likes": 0
+      },
+      {
+        "autor": "vazquez_07oficial",
+        "texto": "Quiero la primera guerra en la isla por el dominio de ella",
+        "likes": 0
+      },
+      {
+        "autor": "zm.joss_ym",
+        "texto": "Yo quiero un enferman",
+        "likes": 0
+      },
+      {
+        "autor": "zm.joss_ym",
+        "texto": "Y ser preaidente",
+        "likes": 0
+      }
+    ],
+    "negocio": [
+      {
+        "autor": "b_arry_allen",
+        "texto": "Quiero tener una pizzeria",
+        "likes": 0
+      }
+    ],
+    "rol": [
+      {
+        "autor": "dv_car3nazz_666",
+        "texto": "O shet soy el comando general",
+        "likes": 0
+      },
+      {
+        "autor": "its_axelfc",
+        "texto": "Eh faltó yo carnal ya te sigo y yo pido ser alguien poderoso para defenderme o si no se puede dame u",
+        "likes": 1
+      }
+    ],
+    "ruido": [
+      {
+        "autor": "menor_brooklyn.v_",
+        "texto": "👏",
+        "likes": 0
+      }
+    ]
+  },
+  "roles": 33
+}

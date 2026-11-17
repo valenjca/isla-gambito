@@ -1,0 +1,899 @@
+{
+  "events": [
+    {
+      "seq": 0,
+      "day": 1,
+      "type": "fundacion",
+      "title": "Emerge una isla",
+      "text": "Del mar ha surgido una isla vacía. No tiene nombre, ni bandera, ni habitantes. Todo lo decidirán quienes lleguen.",
+      "data": {
+        "account": "gambitovzla"
+      },
+      "at": "2026-11-12T19:13:54.984Z",
+      "prev": "0000000000000000000000000000000000000000000000000000000000000000",
+      "hash": "a7d8b15b1e684c931e25e8d131b411fc173df30646f769f75378b622b5d9e668"
+    },
+    {
+      "seq": 1,
+      "day": 1,
+      "type": "votacion_abierta",
+      "title": "¿Cómo se llama esta isla?",
+      "text": "",
+      "data": {
+        "id": "nombre",
+        "question": "¿Cómo se llama esta isla?",
+        "mode": "propuestas",
+        "effect": "nombre",
+        "options": []
+      },
+      "at": "2026-11-12T19:14:05.325Z",
+      "prev": "a7d8b15b1e684c931e25e8d131b411fc173df30646f769f75378b622b5d9e668",
+      "hash": "c307a120ceec644271414da0689f9a561216b034f13adaae1aed127d4dc65524"
+    },
+    {
+      "seq": 2,
+      "day": 1,
+      "type": "llegada",
+      "title": "Llegan 3 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "soyfantasma72",
+          "aleeeeeeee.2025",
+          "vlerianny"
+        ]
+      },
+      "at": "2026-11-12T19:49:35.056Z",
+      "prev": "c307a120ceec644271414da0689f9a561216b034f13adaae1aed127d4dc65524",
+      "hash": "66b3cd498fe49f05cac743307c9773d502d9e4b763e13e0f7c7080bf6accb791"
+    },
+    {
+      "seq": 3,
+      "day": 1,
+      "type": "suceso",
+      "title": "La cuenta cambia de nombre",
+      "text": "La isla ahora se sigue en TikTok como @gambito_ia (antes @gambitovzla).",
+      "data": {},
+      "at": "2026-11-12T20:55:48.274Z",
+      "prev": "66b3cd498fe49f05cac743307c9773d502d9e4b763e13e0f7c7080bf6accb791",
+      "hash": "ce6db89b0339c5fd2b18e0f7b1fb008b03400b726f30ec17228eb22a0da4d4db"
+    },
+    {
+      "seq": 4,
+      "day": 1,
+      "type": "llegada",
+      "title": "Llegan 3 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "damianncabaeza",
+          "67tekio",
+          "user22339406348035"
+        ]
+      },
+      "at": "2026-11-12T20:55:48.444Z",
+      "prev": "ce6db89b0339c5fd2b18e0f7b1fb008b03400b726f30ec17228eb22a0da4d4db",
+      "hash": "7901956217ca237b094e9b773b18c98498a6cb99d7e4f5a4fcc96c51abacc328"
+    },
+    {
+      "seq": 5,
+      "day": 1,
+      "type": "llegada",
+      "title": "Llegan 20 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "marshyrake",
+          "jake.apaza",
+          "thiagosantibaez8",
+          "micaiashuenchumil",
+          "xx.syb.m",
+          "coquettecore84",
+          "user6529454675054",
+          "sierraxo628",
+          "lonely.shimmer5",
+          ".fumeke1",
+          ".urnpcenergy55",
+          "user7339013255522",
+          "user61201186114",
+          "sleepydeprived915",
+          "rosychild4",
+          "cerrepotsto",
+          "fabiandinosaurio7",
+          "nosebroxd_0",
+          "alonso05rg",
+          "emi8alonso"
+        ]
+      },
+      "at": "2026-11-13T00:15:47.875Z",
+      "prev": "7901956217ca237b094e9b773b18c98498a6cb99d7e4f5a4fcc96c51abacc328",
+      "hash": "b56437b15f8cf6c6f34be27723d8a376083d2a7d6926d49e695c3a65ef8a132c"
+    },
+    {
+      "seq": 6,
+      "day": 1,
+      "type": "llegada",
+      "title": "Llegan 2 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "agus20131320",
+          "fan_de_la_aviacion_2001"
+        ]
+      },
+      "at": "2026-11-13T03:38:02.175Z",
+      "prev": "b56437b15f8cf6c6f34be27723d8a376083d2a7d6926d49e695c3a65ef8a132c",
+      "hash": "b5704bc07998baf01d18ddf7b362213bc1addc5dc86f2efc4315a730d814af0c"
+    },
+    {
+      "seq": 7,
+      "day": 2,
+      "type": "llegada",
+      "title": "Llegan 6 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "agustn.2.00",
+          "therapremo5",
+          "vixoverse.22",
+          "isabel.angel30",
+          "gato_6383bs",
+          "habibi._.23"
+        ]
+      },
+      "at": "2026-11-13T13:04:44.362Z",
+      "prev": "b5704bc07998baf01d18ddf7b362213bc1addc5dc86f2efc4315a730d814af0c",
+      "hash": "c33e1fe5c8c550f9a0bc928174d983b9f77ac968066152f7a24a520e2d50de1f"
+    },
+    {
+      "seq": 8,
+      "day": 2,
+      "type": "votacion_cerrada",
+      "title": "Ganó: Theraisla",
+      "text": "¿Cómo se llama esta isla? → \"Theraisla\" (propuesta de @therapremo5, 2 likes).",
+      "data": {
+        "id": "nombre",
+        "winner": "Theraisla",
+        "author": "therapremo5",
+        "counts": {
+          "likes": 2
+        },
+        "effect": {
+          "rename": "Theraisla"
+        }
+      },
+      "at": "2026-11-13T13:04:44.441Z",
+      "prev": "c33e1fe5c8c550f9a0bc928174d983b9f77ac968066152f7a24a520e2d50de1f",
+      "hash": "b5a951654b03379daa15df494944e1f5654f1e3a89100f8f160951d01ba76a0f"
+    },
+    {
+      "seq": 9,
+      "day": 2,
+      "type": "construccion",
+      "title": "Se construye: Plaza de Theraisla",
+      "text": "",
+      "data": {
+        "id": "plaza-9",
+        "kind": "plaza",
+        "label": "Plaza de Theraisla"
+      },
+      "at": "2026-11-13T13:04:44.517Z",
+      "prev": "b5a951654b03379daa15df494944e1f5654f1e3a89100f8f160951d01ba76a0f",
+      "hash": "95692fe647acd77f8f3c51cbcea74ab443d06768872e7f90bf267149ca9346ea"
+    },
+    {
+      "seq": 10,
+      "day": 2,
+      "type": "construccion",
+      "title": "Se construye: Alcaldía",
+      "text": "",
+      "data": {
+        "id": "ayuntamiento-10",
+        "kind": "ayuntamiento",
+        "label": "Alcaldía"
+      },
+      "at": "2026-11-13T13:04:44.595Z",
+      "prev": "95692fe647acd77f8f3c51cbcea74ab443d06768872e7f90bf267149ca9346ea",
+      "hash": "176b799e10232021d059557657b1719e94570f66828c44752ee9b6a7a2e14948"
+    },
+    {
+      "seq": 11,
+      "day": 2,
+      "type": "construccion",
+      "title": "Se construye: Tiendita de Marshy",
+      "text": "",
+      "data": {
+        "id": "mercado-11",
+        "kind": "mercado",
+        "label": "Tiendita de Marshy"
+      },
+      "at": "2026-11-13T13:04:44.670Z",
+      "prev": "176b799e10232021d059557657b1719e94570f66828c44752ee9b6a7a2e14948",
+      "hash": "16dd14790d2e3d95fb4451d00e2bac86e692d61834121442a4ec1ca2fa4ee003"
+    },
+    {
+      "seq": 12,
+      "day": 2,
+      "type": "construccion",
+      "title": "Se construye: Industria de Defensa",
+      "text": "",
+      "data": {
+        "id": "torre-12",
+        "kind": "torre",
+        "label": "Industria de Defensa"
+      },
+      "at": "2026-11-13T13:04:44.749Z",
+      "prev": "16dd14790d2e3d95fb4451d00e2bac86e692d61834121442a4ec1ca2fa4ee003",
+      "hash": "3f35968b25d02cbfb94533e26ea6c5e896afb514c2e08c97cf3f8be4ca8b04a9"
+    },
+    {
+      "seq": 13,
+      "day": 2,
+      "type": "rol",
+      "title": "@therapremo5 ahora es: Gobernante",
+      "text": "",
+      "data": {
+        "handle": "therapremo5",
+        "oficio": "gobernante",
+        "titulo": "Gobernante",
+        "costo": 0
+      },
+      "at": "2026-11-13T13:04:44.828Z",
+      "prev": "3f35968b25d02cbfb94533e26ea6c5e896afb514c2e08c97cf3f8be4ca8b04a9",
+      "hash": "5d4802c3ad1e3a3e05b315bd462f173392b2c30432ebadc005bc90a21caadd8e"
+    },
+    {
+      "seq": 14,
+      "day": 2,
+      "type": "rol",
+      "title": "@fan_de_la_aviacion_2001 ahora es: Guardia",
+      "text": "",
+      "data": {
+        "handle": "fan_de_la_aviacion_2001",
+        "oficio": "guardia",
+        "titulo": "Guardia",
+        "costo": 0
+      },
+      "at": "2026-11-13T13:04:44.912Z",
+      "prev": "5d4802c3ad1e3a3e05b315bd462f173392b2c30432ebadc005bc90a21caadd8e",
+      "hash": "afaad147c1181d44423df0441c782a92f447035722fbe004341367079fadcbdd"
+    },
+    {
+      "seq": 15,
+      "day": 2,
+      "type": "rol",
+      "title": "@marshyrake ahora es: Comerciante",
+      "text": "",
+      "data": {
+        "handle": "marshyrake",
+        "oficio": "comerciante",
+        "titulo": "Comerciante",
+        "costo": 0
+      },
+      "at": "2026-11-13T13:04:44.995Z",
+      "prev": "afaad147c1181d44423df0441c782a92f447035722fbe004341367079fadcbdd",
+      "hash": "dfffea29a61bea32aa8a2e0348859aa9c61827e00450ac74866326dad5e15036"
+    },
+    {
+      "seq": 16,
+      "day": 2,
+      "type": "rol",
+      "title": "@gato_6383bs ahora es: Funcionario/a",
+      "text": "",
+      "data": {
+        "handle": "gato_6383bs",
+        "oficio": "alcalde",
+        "titulo": "Funcionario/a",
+        "costo": 0
+      },
+      "at": "2026-11-13T13:04:45.078Z",
+      "prev": "dfffea29a61bea32aa8a2e0348859aa9c61827e00450ac74866326dad5e15036",
+      "hash": "9f80e668f16b1a2d5c4ff67b546f1558eedb705a5deeb2f983dd9db6853a6419"
+    },
+    {
+      "seq": 17,
+      "day": 2,
+      "type": "rol",
+      "title": "@habibi._.23 ahora es: Guardia",
+      "text": "",
+      "data": {
+        "handle": "habibi._.23",
+        "oficio": "guardia",
+        "titulo": "Guardia",
+        "costo": 0
+      },
+      "at": "2026-11-13T13:04:45.161Z",
+      "prev": "9f80e668f16b1a2d5c4ff67b546f1558eedb705a5deeb2f983dd9db6853a6419",
+      "hash": "4cb3fdfa69356de545696d4268ed2004fe4795fae4b14403c92aa382b4781437"
+    },
+    {
+      "seq": 18,
+      "day": 2,
+      "type": "rol",
+      "title": "@isabel.angel30 ahora es: Gobernante",
+      "text": "",
+      "data": {
+        "handle": "isabel.angel30",
+        "oficio": "gobernante",
+        "titulo": "Gobernante",
+        "costo": 0
+      },
+      "at": "2026-11-13T13:04:45.252Z",
+      "prev": "4cb3fdfa69356de545696d4268ed2004fe4795fae4b14403c92aa382b4781437",
+      "hash": "6e6db692ea4a0f52aca8c51268118f18a81b9bcb38300caae04b23a9e1135d98"
+    },
+    {
+      "seq": 19,
+      "day": 2,
+      "type": "rol",
+      "title": "@jake.apaza ahora es: Oficio propio",
+      "text": "",
+      "data": {
+        "handle": "jake.apaza",
+        "oficio": "libre",
+        "titulo": "Oficio propio",
+        "costo": 0
+      },
+      "at": "2026-11-13T13:04:45.351Z",
+      "prev": "6e6db692ea4a0f52aca8c51268118f18a81b9bcb38300caae04b23a9e1135d98",
+      "hash": "28ce18482f9737f09f9eca3a7f50dfe06ed9433d4d03c2ad75f6d70a0480e305"
+    },
+    {
+      "seq": 20,
+      "day": 2,
+      "type": "rol",
+      "title": "@thiagosantibaez8 ahora es: Oficio propio",
+      "text": "",
+      "data": {
+        "handle": "thiagosantibaez8",
+        "oficio": "libre",
+        "titulo": "Oficio propio",
+        "costo": 0
+      },
+      "at": "2026-11-13T13:04:45.438Z",
+      "prev": "28ce18482f9737f09f9eca3a7f50dfe06ed9433d4d03c2ad75f6d70a0480e305",
+      "hash": "22fdc6e2ac4c122896daa5e4212a20c68557fa06c40f46b08eeb00bb4aebcdda"
+    },
+    {
+      "seq": 21,
+      "day": 2,
+      "type": "rol",
+      "title": "@micaiashuenchumil ahora es: Oficio propio",
+      "text": "",
+      "data": {
+        "handle": "micaiashuenchumil",
+        "oficio": "libre",
+        "titulo": "Oficio propio",
+        "costo": 0
+      },
+      "at": "2026-11-13T13:04:45.534Z",
+      "prev": "22fdc6e2ac4c122896daa5e4212a20c68557fa06c40f46b08eeb00bb4aebcdda",
+      "hash": "d0c957b4a610ccded5de200860490dbdf935ea98d6ae30acf50b506a1802f2b0"
+    },
+    {
+      "seq": 22,
+      "day": 2,
+      "type": "votacion_abierta",
+      "title": "¿Cómo es la bandera de Theraisla?",
+      "text": "",
+      "data": {
+        "id": "bandera",
+        "question": "¿Cómo es la bandera de Theraisla?",
+        "mode": "propuestas",
+        "effect": "bandera",
+        "options": []
+      },
+      "at": "2026-11-13T13:04:59.973Z",
+      "prev": "d0c957b4a610ccded5de200860490dbdf935ea98d6ae30acf50b506a1802f2b0",
+      "hash": "c790a421106fcbe7e885e5498036008e17059b35ff5f2827a60eb7e9ae07b741"
+    },
+    {
+      "seq": 23,
+      "day": 2,
+      "type": "llegada",
+      "title": "Llega @jopejope8284",
+      "text": "",
+      "data": {
+        "handles": [
+          "jopejope8284"
+        ]
+      },
+      "at": "2026-11-13T23:33:43.487Z",
+      "prev": "c790a421106fcbe7e885e5498036008e17059b35ff5f2827a60eb7e9ae07b741",
+      "hash": "3c8ccff901fb67bfb25a2ca1806b2d0cec2b10b74751a2c356424dd8ded85307"
+    },
+    {
+      "seq": 24,
+      "day": 2,
+      "type": "suceso",
+      "title": "Peligro Inminente",
+      "text": "Instagram tiene 99 vecinos, YouTube 65 y un Titán... ¡y en TikTok somos 35! Parece que seremos los primeros en desaparecer si no nos armamos. ¿Qué construimos para defendernos?",
+      "data": {},
+      "at": "2026-11-13T23:33:52.739Z",
+      "prev": "3c8ccff901fb67bfb25a2ca1806b2d0cec2b10b74751a2c356424dd8ded85307",
+      "hash": "15f798ff541d0a15fef84f29ce9f66d6d85dc9fdd68c47f795b5645391edb517"
+    },
+    {
+      "seq": 25,
+      "day": 3,
+      "type": "llegada",
+      "title": "Llegan 2 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "user6626345082617",
+          "laefan13"
+        ]
+      },
+      "at": "2026-11-14T15:09:46.549Z",
+      "prev": "15f798ff541d0a15fef84f29ce9f66d6d85dc9fdd68c47f795b5645391edb517",
+      "hash": "76f596d08584a9b2a41ec8f5cef149ec7d73b84d74c0818af07984a7d20f3da4"
+    },
+    {
+      "seq": 26,
+      "day": 3,
+      "type": "construccion",
+      "title": "Se construye: Cancha de @alonso05rg",
+      "text": "",
+      "data": {
+        "id": "estadio-26",
+        "kind": "estadio",
+        "label": "Cancha de @alonso05rg"
+      },
+      "at": "2026-11-14T15:09:46.631Z",
+      "prev": "76f596d08584a9b2a41ec8f5cef149ec7d73b84d74c0818af07984a7d20f3da4",
+      "hash": "c946a813a42bba7c5830f1eddc52fecd86d1a6e565cc665ca08b3bac7ba6c746"
+    },
+    {
+      "seq": 27,
+      "day": 3,
+      "type": "construccion",
+      "title": "Se construye: Fábrica Experimental",
+      "text": "",
+      "data": {
+        "id": "taller-27",
+        "kind": "taller",
+        "label": "Fábrica Experimental"
+      },
+      "at": "2026-11-14T15:09:46.721Z",
+      "prev": "c946a813a42bba7c5830f1eddc52fecd86d1a6e565cc665ca08b3bac7ba6c746",
+      "hash": "eee2852bf246159950ecd88a4a1adb20223533dfd95fb063209245480360a755"
+    },
+    {
+      "seq": 28,
+      "day": 3,
+      "type": "rol",
+      "title": "@alonso05rg pide ser: Capitán de la Cancha (cuesta 15 🪙)",
+      "text": "",
+      "data": {
+        "handle": "alonso05rg",
+        "oficio": "deportista",
+        "titulo": "Capitán de la Cancha",
+        "costo": 15
+      },
+      "at": "2026-11-14T15:09:46.817Z",
+      "prev": "eee2852bf246159950ecd88a4a1adb20223533dfd95fb063209245480360a755",
+      "hash": "39be961862670dbd11951729d55b8e656162e2e60dec57ad63818d5fb99c4754"
+    },
+    {
+      "seq": 29,
+      "day": 3,
+      "type": "rol",
+      "title": "@fan_de_la_aviacion_2001 pide ser: Jefe de Defensa (cuesta 15 🪙)",
+      "text": "",
+      "data": {
+        "handle": "fan_de_la_aviacion_2001",
+        "oficio": "guardia",
+        "titulo": "Jefe de Defensa",
+        "costo": 15
+      },
+      "at": "2026-11-14T15:09:47.096Z",
+      "prev": "39be961862670dbd11951729d55b8e656162e2e60dec57ad63818d5fb99c4754",
+      "hash": "4ef0194eab9fdd23d09c9c02d3cdc96bdddee6c4d6b172a3d9fb7c3701e2eabc"
+    },
+    {
+      "seq": 30,
+      "day": 3,
+      "type": "rol",
+      "title": "@user6626345082617 pide ser: Experimento Serpiente (cuesta 40 🪙)",
+      "text": "",
+      "data": {
+        "handle": "user6626345082617",
+        "oficio": "cientifico",
+        "titulo": "Experimento Serpiente",
+        "costo": 40
+      },
+      "at": "2026-11-14T15:09:47.187Z",
+      "prev": "4ef0194eab9fdd23d09c9c02d3cdc96bdddee6c4d6b172a3d9fb7c3701e2eabc",
+      "hash": "8737dd34b7faf1b12ea62c797bf697632a599f5f9491755a51b87221642e3c62"
+    },
+    {
+      "seq": 31,
+      "day": 3,
+      "type": "rol",
+      "title": "@laefan13 pide ser: Candidato Presidencial (cuesta 100 🪙)",
+      "text": "",
+      "data": {
+        "handle": "laefan13",
+        "oficio": "gobernante",
+        "titulo": "Candidato Presidencial",
+        "costo": 100
+      },
+      "at": "2026-11-14T15:09:47.282Z",
+      "prev": "8737dd34b7faf1b12ea62c797bf697632a599f5f9491755a51b87221642e3c62",
+      "hash": "ffceaccca550f1284b7730be81d3ed58f39aab52855e4838b3f1d418b5b627cf"
+    },
+    {
+      "seq": 32,
+      "day": 3,
+      "type": "suceso",
+      "title": "Día 3: ¡Theraisla Contraataca!",
+      "text": "Llegaron nuevos seguidores, cancha de fútbol para @alonso05rg y fábrica experimental para asustar a YouTube.",
+      "data": {},
+      "at": "2026-11-14T15:09:47.368Z",
+      "prev": "ffceaccca550f1284b7730be81d3ed58f39aab52855e4838b3f1d418b5b627cf",
+      "hash": "82c7520877f666438d219182dbafdc24ea1277b47b80a8742bf79a099175d343"
+    },
+    {
+      "seq": 33,
+      "day": 3,
+      "type": "dialogo",
+      "title": "Conversación entre vecinos",
+      "text": "",
+      "data": {
+        "lines": [
+          {
+            "who": "alonso05rg",
+            "text": "Al fin tengo mi cancha!!!"
+          },
+          {
+            "who": "user6626345082617",
+            "text": "Mi serpiente con patas ya está en producción"
+          },
+          {
+            "who": "fan_de_la_aviacion_2001",
+            "text": "Defensa lista contra Oriente"
+          }
+        ]
+      },
+      "at": "2026-11-14T15:09:47.452Z",
+      "prev": "82c7520877f666438d219182dbafdc24ea1277b47b80a8742bf79a099175d343",
+      "hash": "ad26e6a48f0073f2ffcc74149b62d0b356ef61bdd5f1fad36a32f36ed79437fd"
+    },
+    {
+      "seq": 34,
+      "day": 3,
+      "type": "llegada",
+      "title": "Llegan 3 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "minceraf",
+          "speakerman6077oficial",
+          "sebastinmurrillo"
+        ]
+      },
+      "at": "2026-11-15T19:10:23.883Z",
+      "prev": "ad26e6a48f0073f2ffcc74149b62d0b356ef61bdd5f1fad36a32f36ed79437fd",
+      "hash": "b8d873c8207dbc0047ffe614d3163aa2b06f299f25a71630ace6d7fe707d6e28"
+    },
+    {
+      "seq": 35,
+      "day": 3,
+      "type": "suceso",
+      "title": "Salto en el tiempo: Theraisla se asfalta",
+      "text": "Theraisla despertó con calles de verdad: asfalto, líneas blancas y aceras. Los dos alcaldes se pelean por quién firmó la obra.",
+      "data": {},
+      "at": "2026-11-15T19:44:23.746Z",
+      "prev": "b8d873c8207dbc0047ffe614d3163aa2b06f299f25a71630ace6d7fe707d6e28",
+      "hash": "cdc0694d5611ee53244eea5c74a5a1e1444d9995d1a16e16a06fb93cbc8cac04"
+    },
+    {
+      "seq": 36,
+      "day": 3,
+      "type": "suceso",
+      "title": "Lo pides en TikTok, aparece en Theraisla",
+      "text": "Se levanta la Base Militar de @agus20131320 y en su pista descansa el primer caza furtivo salido de la fábrica de @fan_de_la_aviacion_2001 (sigue buscando gente para la fábrica). @micaiashuenchumil y @thiagosantibaez8 estrenan mansiones vecinas con piscina. @jake.apaza ya tiene gato. Y en la casa de @jopejope8284 ondea la bandera chilena.",
+      "data": {},
+      "at": "2026-11-15T20:09:44.017Z",
+      "prev": "cdc0694d5611ee53244eea5c74a5a1e1444d9995d1a16e16a06fb93cbc8cac04",
+      "hash": "2b181de50ecd5883726818773d1b524ae29c789cc3bd98b59b464d104455fb56"
+    },
+    {
+      "seq": 37,
+      "day": 3,
+      "type": "suceso",
+      "title": "Diez vecinos se van (y Theraisla se reordena)",
+      "text": "Theraisla bajó de 42 a 32 seguidores. Las casas de los que se fueron siguen en pie, con la luz encendida. La ciudad se juntó y una carretera nueva rodea la isla, por si alguien quiere volver en auto.",
+      "data": {},
+      "at": "2026-11-15T20:29:36.325Z",
+      "prev": "2b181de50ecd5883726818773d1b524ae29c789cc3bd98b59b464d104455fb56",
+      "hash": "ddf8dad68e69a81d5f3a1b67bb8fbf20625b8e96e47553478a5a7934a98545ce"
+    },
+    {
+      "seq": 38,
+      "day": 3,
+      "type": "llegada",
+      "title": "Llegan 6 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "grift831",
+          "azukyfan33",
+          "bachirad01",
+          "yessxk",
+          "agil2v7e5",
+          "ignaciosdt744"
+        ]
+      },
+      "at": "2026-11-16T00:10:14.787Z",
+      "prev": "ddf8dad68e69a81d5f3a1b67bb8fbf20625b8e96e47553478a5a7934a98545ce",
+      "hash": "cfb5ad54707ae69dd9c14e0d146704d89411e4a25b11356565836724ebe1075d"
+    },
+    {
+      "seq": 39,
+      "day": 3,
+      "type": "construccion",
+      "title": "Se construye: Hospital de Theraisla",
+      "text": "",
+      "data": {
+        "id": "hospital-39",
+        "kind": "hospital",
+        "label": "Hospital de Theraisla"
+      },
+      "at": "2026-11-16T00:10:14.865Z",
+      "prev": "cfb5ad54707ae69dd9c14e0d146704d89411e4a25b11356565836724ebe1075d",
+      "hash": "3afe5d0d23caaea0fffcdf41233866b02677fdb8dcaa3ebc4a19d445e53832e8"
+    },
+    {
+      "seq": 40,
+      "day": 3,
+      "type": "construccion",
+      "title": "Se construye: Muelle de Pesca",
+      "text": "",
+      "data": {
+        "id": "muelle-40",
+        "kind": "muelle",
+        "label": "Muelle de Pesca"
+      },
+      "at": "2026-11-16T00:10:14.945Z",
+      "prev": "3afe5d0d23caaea0fffcdf41233866b02677fdb8dcaa3ebc4a19d445e53832e8",
+      "hash": "dfed9821cfd151c86e0de7bc1223d44e8f143532cae3e64edaa2b1d4bdb658de"
+    },
+    {
+      "seq": 41,
+      "day": 3,
+      "type": "actividad",
+      "title": "Actividad: 5 habitantes suman puntos",
+      "text": "",
+      "data": {
+        "puntos": {
+          "grift831": 2,
+          "thiagosantibaez8": 2,
+          "yessxk": 2,
+          "agil2v7e5": 2,
+          "sebastinmurrillo": 2
+        }
+      },
+      "at": "2026-11-16T00:10:15.025Z",
+      "prev": "dfed9821cfd151c86e0de7bc1223d44e8f143532cae3e64edaa2b1d4bdb658de",
+      "hash": "3b72f5066a9e8351487605ddae5d2c185a6af115faaaa8d151abf3f102161244"
+    },
+    {
+      "seq": 42,
+      "day": 3,
+      "type": "rol",
+      "title": "@grift831 ahora es: Capitán Pesquero",
+      "text": "",
+      "data": {
+        "handle": "grift831",
+        "oficio": "pescador",
+        "titulo": "Capitán Pesquero",
+        "costo": 0
+      },
+      "at": "2026-11-16T00:10:15.117Z",
+      "prev": "3b72f5066a9e8351487605ddae5d2c185a6af115faaaa8d151abf3f102161244",
+      "hash": "15232c347b449a0e37fd3effb3e9554078b2f536debf520cb41e745aa6b09ca9"
+    },
+    {
+      "seq": 43,
+      "day": 3,
+      "type": "rol",
+      "title": "@sebastinmurrillo pide ser: Ratero y Policía (cuesta 15 🪙)",
+      "text": "",
+      "data": {
+        "handle": "sebastinmurrillo",
+        "oficio": "policia",
+        "titulo": "Ratero y Policía",
+        "costo": 15
+      },
+      "at": "2026-11-16T00:10:15.223Z",
+      "prev": "15232c347b449a0e37fd3effb3e9554078b2f536debf520cb41e745aa6b09ca9",
+      "hash": "a6cfd10536fc1d55d6fd1380340d82c56e31e669f53d6816def69ce9601f00f8"
+    },
+    {
+      "seq": 44,
+      "day": 3,
+      "type": "suceso",
+      "title": "Nuevos vecinos y obras en Theraisla",
+      "text": "Se inauguran el Hospital (@thiagosantibaez8) y el Muelle de Pesca (@grift831), llegan tres ovejas para @yessxk y crece la pista aérea (@agil2v7e5).",
+      "data": {},
+      "at": "2026-11-16T00:10:15.308Z",
+      "prev": "a6cfd10536fc1d55d6fd1380340d82c56e31e669f53d6816def69ce9601f00f8",
+      "hash": "9245d6eef6dae9b086c3f3992baf06f28aa9abff75a50ec306fbaa06caec846b"
+    },
+    {
+      "seq": 45,
+      "day": 3,
+      "type": "llegada",
+      "title": "Llega @samu_34141",
+      "text": "",
+      "data": {
+        "handles": [
+          "samu_34141"
+        ]
+      },
+      "at": "2026-11-16T19:54:59.797Z",
+      "prev": "9245d6eef6dae9b086c3f3992baf06f28aa9abff75a50ec306fbaa06caec846b",
+      "hash": "65994af76d01ab90b0b4f7c4dfe00ad3f02d5ffa3c9f75e69308bf5b81747f34"
+    },
+    {
+      "seq": 46,
+      "day": 3,
+      "type": "llegada",
+      "title": "Llegan 27 habitantes",
+      "text": "",
+      "data": {
+        "handles": [
+          "x._matx_.x",
+          "fer_21rj",
+          "ihatecartmanlol",
+          "stefanlevy13",
+          "pan_de_leche777",
+          "nico_gamers",
+          "kevincastill30",
+          "igconitooo3",
+          "mrbomstudios",
+          "mateooo.ce",
+          "warzontiv2",
+          "i_am.leonard",
+          "thomasscholtbach6",
+          "gusi1317",
+          "el.pichula9324",
+          "juli_07.04",
+          "tonciocrack78",
+          "xxbluecopxx1",
+          "osvaldocardenas6767",
+          ".2.0.1.5.2",
+          "buildermatt_tkt",
+          "el_ruso_fly",
+          "hipergamia_04",
+          "jorge.monrdez",
+          "jjooxx34",
+          "arboldemanzanas2",
+          "nice_silver10"
+        ]
+      },
+      "at": "2026-11-17T17:18:31.854Z",
+      "prev": "65994af76d01ab90b0b4f7c4dfe00ad3f02d5ffa3c9f75e69308bf5b81747f34",
+      "hash": "5a3176317f76392c21a5a27ca575abb85197b74936eb7709306d2b7767a8a64c"
+    },
+    {
+      "seq": 47,
+      "day": 3,
+      "type": "rol",
+      "title": "@ihatecartmanlol ahora es: Piloto",
+      "text": "",
+      "data": {
+        "handle": "ihatecartmanlol",
+        "oficio": "libre",
+        "titulo": "Piloto",
+        "costo": 0
+      },
+      "at": "2026-11-17T17:18:31.958Z",
+      "prev": "5a3176317f76392c21a5a27ca575abb85197b74936eb7709306d2b7767a8a64c",
+      "hash": "8d27459d5989835c34c93ab81a7f44ec386ff9b01e07b6ce599a5f22dae19777"
+    },
+    {
+      "seq": 48,
+      "day": 3,
+      "type": "rol",
+      "title": "@osvaldocardenas6767 ahora es: Kratos",
+      "text": "",
+      "data": {
+        "handle": "osvaldocardenas6767",
+        "oficio": "libre",
+        "titulo": "Kratos",
+        "costo": 0
+      },
+      "at": "2026-11-17T17:18:32.060Z",
+      "prev": "8d27459d5989835c34c93ab81a7f44ec386ff9b01e07b6ce599a5f22dae19777",
+      "hash": "520e5d9f2885dcf861a7fe236697893ce094aa29b87289070d47ac6c5ed3a819"
+    },
+    {
+      "seq": 49,
+      "day": 3,
+      "type": "rol",
+      "title": "@buildermatt_tkt ahora es: Militar",
+      "text": "",
+      "data": {
+        "handle": "buildermatt_tkt",
+        "oficio": "libre",
+        "titulo": "Militar",
+        "costo": 0
+      },
+      "at": "2026-11-17T17:18:32.162Z",
+      "prev": "520e5d9f2885dcf861a7fe236697893ce094aa29b87289070d47ac6c5ed3a819",
+      "hash": "d8c5fc5bbf371ed1702809d54c6dbd4dc7cc708b7d2de6571241f9ba86a1d3d4"
+    },
+    {
+      "seq": 50,
+      "day": 3,
+      "type": "rol",
+      "title": "@pan_de_leche777 pide ser: Panadera de Theraisla (cuesta 15 🪙)",
+      "text": "",
+      "data": {
+        "handle": "pan_de_leche777",
+        "oficio": "comerciante",
+        "titulo": "Panadera de Theraisla",
+        "costo": 15
+      },
+      "at": "2026-11-17T17:18:32.273Z",
+      "prev": "d8c5fc5bbf371ed1702809d54c6dbd4dc7cc708b7d2de6571241f9ba86a1d3d4",
+      "hash": "578a9add5e85a5bb48648351da4251d67c3abb91d827ff6b87ae79d2fbba66cf"
+    },
+    {
+      "seq": 51,
+      "day": 3,
+      "type": "suceso",
+      "title": "Pedidos de los nuevos",
+      "text": "Piden: casa de dos pisos con piscina y golden retriever (@mateooo.ce), mansión y auto de lujo (@nico_gamers, @mrbomstudios), una lancha (@thomasscholtbach6), a Saitama (@el.pichula9324), una vaca gigante que escupe fuego (@xxbluecopxx1), una cueva subterránea (@.2.0.1.5.2), un tanque (@jorge.monrdez), una escuela (@el_ruso_fly), minas de uranio para la fábrica (@fan_de_la_aviacion_2001) y una casa cerca de la playa con heladería (@agustn.2.00).",
+      "data": {},
+      "at": "2026-11-17T17:18:32.366Z",
+      "prev": "578a9add5e85a5bb48648351da4251d67c3abb91d827ff6b87ae79d2fbba66cf",
+      "hash": "0f09d5e945c39afbcc822f2393dcb4408ea92925dcb1b4bdcbd782f50e7d41a4"
+    },
+    {
+      "seq": 52,
+      "day": 3,
+      "type": "rol",
+      "title": "@pan_de_leche777 pide ser: La Panadería de Theraisla (cuesta 15 🪙)",
+      "text": "",
+      "data": {
+        "handle": "pan_de_leche777",
+        "oficio": "comerciante",
+        "titulo": "La Panadería de Theraisla",
+        "costo": 15
+      },
+      "at": "2026-11-17T17:18:41.025Z",
+      "prev": "0f09d5e945c39afbcc822f2393dcb4408ea92925dcb1b4bdcbd782f50e7d41a4",
+      "hash": "07ae12b97deed524b93f9f47b80b0661c5e8bbcd16d638585bc80cf8b0819ff8"
+    },
+    {
+      "seq": 53,
+      "day": 3,
+      "type": "construccion",
+      "title": "Se construye: Escuela de Theraisla",
+      "text": "",
+      "data": {
+        "id": "escuela-53",
+        "kind": "escuela",
+        "label": "Escuela de Theraisla"
+      },
+      "at": "2026-11-17T18:03:06.053Z",
+      "prev": "07ae12b97deed524b93f9f47b80b0661c5e8bbcd16d638585bc80cf8b0819ff8",
+      "hash": "fe423aefd1843f7536d1b0c5eb6cb619f4f8cdbf29a8a5a136930353e714e450"
+    },
+    {
+      "seq": 54,
+      "day": 3,
+      "type": "suceso",
+      "title": "Se construye todo lo pedido",
+      "text": "Panadería de @pan_de_leche777, mansión y auto de lujo de @nico_gamers, auto de lujo de @mrbomstudios, casa de dos pisos con piscina y golden retriever de @mateooo.ce, lancha de @thomasscholtbach6, Saitama para @el.pichula9324, vaca gigante que escupe fuego de @xxbluecopxx1, cueva subterránea de @.2.0.1.5.2, tanque de @jorge.monrdez, escuela pedida por @el_ruso_fly, mina de uranio de @fan_de_la_aviacion_2001 y heladería junto a la playa de @agustn.2.00.",
+      "data": {},
+      "at": "2026-11-17T18:03:06.202Z",
+      "prev": "fe423aefd1843f7536d1b0c5eb6cb619f4f8cdbf29a8a5a136930353e714e450",
+      "hash": "255f9717f65801adb03fa651775ce12a173cbaf873b03fa426fb2e63aee5c95b"
+    }
+  ]
+}

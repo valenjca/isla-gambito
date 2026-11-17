@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover" />
+  <title>La Isla · @gambitoia</title>
+  <meta name="description" content="Una isla que crece con cada seguidor de @gambitoia. Encuentra tu casa, vota y cambia la historia." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏝️</text></svg>" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;700;800&family=Nunito:wght@500;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <script type="importmap">
+    { "imports": {
+      "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+      "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+    } }
+  </script>
+</head>
+<body>
+  <div id="stage"></div>
+
+  <div id="ui">
+    <header class="top">
+      <div class="card brand">
+        <div class="flag" id="flag" title="Bandera (la eligen los seguidores)">?</div>
+        <div>
+          <div class="name" id="worldName">Isla sin nombre</div>
+          <div class="sub" id="worldSub">Día 1 · nombre y bandera los decides tú</div>
+        </div>
+      </div>
+      <div class="card counter">
+        <div class="big"><span id="pop">0</span> <small>HABITANTES</small></div>
+        <div class="bar"><i id="goalBar"></i></div>
+        <div class="sub" id="goalText">Meta: 10</div>
+      </div>
+      <div class="card clock">
+        <span id="timeIcon">☀️</span> <b id="clock">09:00</b>
+        <button id="speedBtn" title="Un día de la isla = 6 horas reales. Pulsa para acelerar y previsualizar.">En vivo</button>
+        <button id="weatherBtn" title="Clima">☀️ Auto</button>
+        <button id="musicBtn" title="Música chill">🎵</button>
+        <button id="sfxBtn" title="Sonidos de la isla">🔊</button>
+      </div>
+    </header>
+
+    <div class="search card">
+      <span>🔎</span>
+      <input id="search" placeholder="Busca tu @usuario y encuentra tu casa" autocomplete="off" />
+    </div>
+
+    <aside id="panel" class="card panel hidden">
+      <button class="close" id="panelClose" aria-label="Cerrar">×</button>
+      <div id="panelBody"></div>
+    </aside>
+
+    <div id="chat" class="card chat">
+      <div class="chat-head">
+        <div class="chat-tabs">
+          <button data-tab="global">🌍 Global</button>
+          <button data-tab="zona">🏘️ <span id="zonaLabel">Mi zona</span></button>
+          <button data-tab="isla">💭 Isla</button>
+        </div>
+        <span id="chatEstado" class="chat-estado" data-e="medio">● conectando</span>
+        <button id="chatToggle" aria-label="Minimizar chat">–</button>
+      </div>
+      <select id="chatZona" class="chat-zona hidden" aria-label="Tu zona"></select>
+      <div id="chatLog" class="chat-log"></div>
+      <form id="chatForm" class="chat-form" autocomplete="off">
+        <input id="chatName" maxlength="25" placeholder="Tu nombre o @" />
+        <input id="chatText" maxlength="280" placeholder="Escribe a tus vecinos…" />
+        <button type="submit" aria-label="Enviar">➤</button>
+      </form>
+      <div class="chat-foot" id="chatFoot"></div>
+    </div>
+
+    <nav class="tabs card">
+      <button data-tab="mapa" class="on">🗺️<span>Mapa</span></button>
+      <button data-tab="habitantes">⭐<span>Habitantes</span></button>
+      <button data-tab="diario">📰<span>Diario</span></button>
+      <button data-tab="votacion">🗳️<span>Votación</span></button>
+      <button data-tab="sociedad">🏛️<span>Sociedad</span></button>
+      <button data-tab="negocios">🏪<span>Negocios</span></button>
+      <button data-tab="perfil">👤<span>Perfil</span></button>
+    </nav>
+
+    <div id="toast" class="toast"></div>
+    <div id="demoBadge" class="demo hidden">MODO DEMO · población simulada</div>
+  </div>
+
+  <div id="reelUI" class="hidden"></div>
+  <div id="loading"><div class="spin"></div><p>Leyendo la historia de la isla…</p></div>
+
+  <script src="config.js"></script>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
